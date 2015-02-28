@@ -10,13 +10,15 @@
     <atom:link href="http://uriel-fanelli.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>inauguriamo</title>
+      <title>Inauguriamo</title>
       <link>http://uriel-fanelli.github.io/cazzibuffi/inauguriamo/</link>
       <pubDate>Sat, 28 Feb 2015 17:25:16 +0100</pubDate>
       
       <guid>http://uriel-fanelli.github.io/cazzibuffi/inauguriamo/</guid>
-      <description>&lt;p&gt;&amp;mdash;&amp;ndash;BEGIN PGP SIGNED MESSAGE&amp;mdash;&amp;ndash;
-Hash: SHA1&lt;/p&gt;
+      <description>&lt;pre&gt;
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+&lt;/pre&gt;
 
 &lt;p&gt;Se quello che penso e&amp;rsquo; corretto, questo dovrebbe essere l&amp;rsquo;inizio delle sezioni. Il problema dei programmatori moderni e&amp;rsquo; che sono dei cerebrolesi
 ogni qualvolta che viene chiesto loro di fare qualcosa che non sia pisciare codice. Per esempio, scrivere documentazione. Il problema e&amp;rsquo; che non
@@ -25,10 +27,11 @@ sanno scrivere documentazione. O meglio, il problema e&amp;rsquo; che non sanno 
 &lt;p&gt;In questo modo, siccome il programmatore da&amp;rsquo; per scontato che tutti gli leggano nella mente, quel che ne esce (e hugo ne e&amp;rsquo; la prova) e un sito
 che dovrebbe spiegare come si usa Hugo, e invece spiega semplicemente che il programmatore sa usare Hugo.&lt;/p&gt;
 
-&lt;p&gt;&amp;mdash;&amp;ndash;BEGIN PGP SIGNATURE&amp;mdash;&amp;ndash;
-Version: GnuPG v1&lt;/p&gt;
+&lt;pre&gt;
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
 
-&lt;p&gt;iQIcBAEBAgAGBQJU8e4vAAoJEKENUijpAx8N2cAP/jiGJKIItbcQ+L6W749SXuOP
+iQIcBAEBAgAGBQJU8e4vAAoJEKENUijpAx8N2cAP/jiGJKIItbcQ+L6W749SXuOP
 BuRzluSllcoI9WvP1gAp+5HNh3UVzrru37Q9ZAMfsV+LonrAQm5SQo5YVc8QlGav
 mKn+dzgSOZSxHt2LRlZp6BrAS9rzeoOc4e7Gn0SHs7mrAkV5E0qM0Q3Re+DKpL+2
 bNaMznEWTkPGjVSBzSYnxX3ssCBxMDWlpeFhD5gKi1zOR1ht8lYbIyyEug/uYvkQ
@@ -41,7 +44,8 @@ qCdCdan2FBBTyRhl8i9LVsARFLt07wMMdYfArAmHSmPfLUikmBh5a6DJdrtWesVm
 QDThEFfP7hxoUdixISm2YC65gIqanIQ96dWV+DBNOT5PYzYFX2JqlqCDzSjNEp2Y
 /qSaaImYE31Zze3SFrnO
 =GGRQ
-&amp;mdash;&amp;ndash;END PGP SIGNATURE&amp;mdash;&amp;ndash;&lt;/p&gt;
+-----END PGP SIGNATURE-----
+&lt;/pre&gt;
 </description>
     </item>
     
