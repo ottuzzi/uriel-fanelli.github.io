@@ -1,76 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KEIN PFUSCH, BITTE!</title>
-    <link>http://uriel-fanelli.github.io/</link>
-    <description>Recent content on KEIN PFUSCH, BITTE!</description>
+    <title>Bloggers on KEIN PFUSCH, BITTE!</title>
+    <link>http://uriel-fanelli.github.io/blogger/</link>
+    <description>Recent content in Bloggers on KEIN PFUSCH, BITTE!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Feb 2015 17:25:16 +0100</lastBuildDate>
-    <atom:link href="http://uriel-fanelli.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Inauguriamo</title>
-      <link>http://uriel-fanelli.github.io/cazzibuffi/inauguriamo/</link>
-      <pubDate>Sat, 28 Feb 2015 17:25:16 +0100</pubDate>
-      
-      <guid>http://uriel-fanelli.github.io/cazzibuffi/inauguriamo/</guid>
-      <description>&lt;pre&gt;
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA1
-&lt;/pre&gt;
-
-&lt;p&gt;Se quello che penso e&amp;rsquo; corretto, questo dovrebbe essere l&amp;rsquo;inizio delle sezioni.
-Il problema dei programmatori moderni e&amp;rsquo; che sono dei cerebrolesi
-ogni qualvolta che viene chiesto loro di fare qualcosa che non sia pisciare codice.
-Per esempio, scrivere documentazione. Il problema e&amp;rsquo; che non
-sanno scrivere documentazione.&lt;/p&gt;
-
-&lt;p&gt;O meglio, il problema e&amp;rsquo; che non sanno scrivere nulla.&lt;/p&gt;
-
-&lt;p&gt;In questo modo, siccome il programmatore da&amp;rsquo; per scontato che tutti gli leggano
-nella mente, quel che ne esce (e hugo ne e&amp;rsquo; la prova) e un sito
-che dovrebbe spiegare come si usa Hugo, e invece spiega semplicemente che il
-programmatore sa usare Hugo.&lt;/p&gt;
-
-&lt;pre&gt;
------BEGIN PGP SIGNATURE-----
-Version: GnuPG v1
-
-iQIcBAEBAgAGBQJU8e4vAAoJEKENUijpAx8N2cAP/jiGJKIItbcQ+L6W749SXuOP
-BuRzluSllcoI9WvP1gAp+5HNh3UVzrru37Q9ZAMfsV+LonrAQm5SQo5YVc8QlGav
-mKn+dzgSOZSxHt2LRlZp6BrAS9rzeoOc4e7Gn0SHs7mrAkV5E0qM0Q3Re+DKpL+2
-bNaMznEWTkPGjVSBzSYnxX3ssCBxMDWlpeFhD5gKi1zOR1ht8lYbIyyEug/uYvkQ
-JKKXBqbICLuRtSqCrS6SoeVXTzIcJnydn40WmN/lAGDJ6tJeR/ZfcQfVl09AC2wd
-YO/iFwOSBjJLOmzx25XBkNQ7RoJj1qsp5SQq5kB565+TTxKXWOZovqohYW4OUXqh
-8H9Q2mIYTiWEy8a9IS6QmB/gHYDxG+5NgTzFvQo7SvkMFd0inTNWlaNXJsJGmoo8
-GkmhNq8KXLfYUEWPADA5bH9MGnEp6ITes6gGfTw17B9F6KVw5iSHidvkyTmK04UL
-qCdCdan2FBBTyRhl8i9LVsARFLt07wMMdYfArAmHSmPfLUikmBh5a6DJdrtWesVm
-/G9xYHVBe3OmGhiL34TsceTGLHJNwR1IwANVwQ2wDNSpJYupoYzQ5dWW50Lk3Sxp
-QDThEFfP7hxoUdixISm2YC65gIqanIQ96dWV+DBNOT5PYzYFX2JqlqCDzSjNEp2Y
-/qSaaImYE31Zze3SFrnO
-=GGRQ
------END PGP SIGNATURE-----
-&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Primo Post su GitHub</title>
-      <link>http://uriel-fanelli.github.io/primopost/</link>
-      <pubDate>Sat, 28 Feb 2015 16:54:13 +0100</pubDate>
-      
-      <guid>http://uriel-fanelli.github.io/primopost/</guid>
-      <description>&lt;p&gt;Questo e&amp;rsquo; il primo post del mio blog su github. Ho deciso di spostare qui il blog perche&amp;rsquo; Blogger ha deciso di fare guerra al porno.&lt;/p&gt;
-
-&lt;p&gt;Il problema era che hanno avvisato che un software avrebbe esaminato tutto quello che passava in termini di immagini, e avrebbe
-deciso se qualche immagine era offensiva.&lt;/p&gt;
-
-&lt;p&gt;Ora, proviamo a vederla dal punto di vista dell&amp;rsquo;utente: in pratica mi hanno detto &amp;ldquo;forse ti cancelliamo il blog&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Ovviamente, la sola risposta possibile era &amp;ldquo;puppatemelo&amp;rdquo;.&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Wed, 09 Apr 2014 12:15:50 +0100</lastBuildDate>
+    <atom:link href="http://uriel-fanelli.github.io/blogger/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lo specchio impossibile.</title>
