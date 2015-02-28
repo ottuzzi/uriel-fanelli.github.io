@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title> on KEIN PFUSCH, BITTE! </title>
+    <title>KEIN PFUSCH, BITTE!</title>
     <link>http://uriel-fanelli.github.io/</link>
-    <language>en-US</language>
-    <author>Enthusiastic Hugo User</author>
-    <rights>Copyright (c) 2014, Enthusiastic Hugo User; all rights reserved.</rights>
-    <updated>Sat, 28 Feb 2015 17:25:16 CET</updated>
+    <description>Recent content on KEIN PFUSCH, BITTE!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Feb 2015 17:25:16 +0100</lastBuildDate>
+    <atom:link href="http://uriel-fanelli.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>inauguriamo</title>
       <link>http://uriel-fanelli.github.io/cazzibuffi/inauguriamo/</link>
-      <pubDate>Sat, 28 Feb 2015 17:25:16 CET</pubDate>
-      <author>Enthusiastic Hugo User</author>
+      <pubDate>Sat, 28 Feb 2015 17:25:16 +0100</pubDate>
+      
       <guid>http://uriel-fanelli.github.io/cazzibuffi/inauguriamo/</guid>
       <description>&lt;p&gt;&amp;mdash;&amp;ndash;BEGIN PGP SIGNED MESSAGE&amp;mdash;&amp;ndash;
 Hash: SHA1&lt;/p&gt;
@@ -47,8 +48,8 @@ QDThEFfP7hxoUdixISm2YC65gIqanIQ96dWV+DBNOT5PYzYFX2JqlqCDzSjNEp2Y
     <item>
       <title>Primo Post su GitHub</title>
       <link>http://uriel-fanelli.github.io/primopost/</link>
-      <pubDate>Sat, 28 Feb 2015 16:54:13 CET</pubDate>
-      <author>Enthusiastic Hugo User</author>
+      <pubDate>Sat, 28 Feb 2015 16:54:13 +0100</pubDate>
+      
       <guid>http://uriel-fanelli.github.io/primopost/</guid>
       <description>&lt;p&gt;Questo e&amp;rsquo; il primo post del mio blog su github. Ho deciso di spostare qui il blog perche&amp;rsquo; Blogger ha deciso di fare guerra al porno.&lt;/p&gt;
 
@@ -64,8 +65,8 @@ deciso se qualche immagine era offensiva.&lt;/p&gt;
     <item>
       <title>about</title>
       <link>http://uriel-fanelli.github.io/about/</link>
-      <pubDate>Sat, 28 Feb 2015 16:29:35 CET</pubDate>
-      <author>Enthusiastic Hugo User</author>
+      <pubDate>Sat, 28 Feb 2015 16:29:35 +0100</pubDate>
+      
       <guid>http://uriel-fanelli.github.io/about/</guid>
       <description>
 
