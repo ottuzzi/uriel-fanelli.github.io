@@ -6,8 +6,23 @@
     <description>Recent content on KEIN PFUSCH, BITTE!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Feb 2015 16:54:13 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2015 17:25:16 +0100</lastBuildDate>
     <atom:link href="http://uriel-fanelli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>inauguriamo</title>
+      <link>http://uriel-fanelli.github.io/cazzibuffi/inauguriamo/</link>
+      <pubDate>Sat, 28 Feb 2015 17:25:16 +0100</pubDate>
+      
+      <guid>http://uriel-fanelli.github.io/cazzibuffi/inauguriamo/</guid>
+      <description>&lt;p&gt;e quello che penso e&amp;rsquo; corretto, questo dovrebbe essere l&amp;rsquo;inizio delle sezioni. Il problema dei programmatori moderni e&amp;rsquo; che sono dei rerebrolesi
+ogni qualvolta che viene chiesto loro di fare qualcosa che non sia pisciare codice. Per esempio, scrivere documentazione. Il problema e&amp;rsquo; che non
+sanno scrivere documentazione. O meglio, il problema e&amp;rsquo; che non sanno scrivere nulla.&lt;/p&gt;
+
+&lt;p&gt;In questo modo, siccome il programmatore da&amp;rsquo; per scontato che tutti gli leggano nella mente, quel che ne esce (e hugo ne e&amp;rsquo; la prova) e un sito
+che dovrebbe spiegare come si usa Hugo, e invece spiega semplicemente che il programmatore sa usare Hugo.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Primo Post su GitHub</title>
