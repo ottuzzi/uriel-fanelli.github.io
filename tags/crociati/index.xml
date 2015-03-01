@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crociati on KEIN PFUSCH, BITTE!</title>
+    <link>http://uriel-fanelli.github.io/tags/crociati/</link>
+    <description>Recent content in Crociati on KEIN PFUSCH, BITTE!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2015 17:36:56 +0100</lastBuildDate>
+    <atom:link href="http://uriel-fanelli.github.io/tags/crociati/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>La crociata contro il porno di Google</title>
+      <link>http://uriel-fanelli.github.io/post/popopo-porno/</link>
+      <pubDate>Sun, 01 Mar 2015 17:36:56 +0100</pubDate>
+      
+      <guid>http://uriel-fanelli.github.io/post/popopo-porno/</guid>
+      <description>&lt;p&gt;Blogger e google (che poi sono la stessa azienda) sono solo gli ultimi OTT a condurre
+esplicitamente una battaglia contro il porno online. Ricorderete bene l&amp;rsquo;ossessione di
+Facebook riguardo alla chiusura di pagine dai contenuti &amp;ldquo;offensivi&amp;rdquo;, e lo stesso allarme
+nato su Twitter: &amp;ldquo;almeno tot gazillioni di tweet sono porno&amp;rdquo;. Per non parlare di Pinterest,
+Tumblr/Yahoo, Instagram e altri.&lt;/p&gt;
+
+&lt;p&gt;Prima di indagare le motivazioni per le quali il porno infastidisce gli OTT, o meglio
+i governi che li finanziano(1) mettiamo in chiaro alcuni punti chiave: domanda , offerta
+e dimensione.&lt;/p&gt;
+
+&lt;h2&gt;Offerta&lt;/h2&gt;
+
+&lt;p&gt;Produrre immagini porno e&amp;rsquo; semplice. Che siate maschi o femmine, innanzitutto potete fotografare voi stessi. Se siete in gruppo, dal momento che possedete organi sessuali, ottenere fotografie esplicite di qualche genere e&amp;rsquo; semplicissimo.&lt;/p&gt;
+
+&lt;p&gt;In definitiva, l&amp;rsquo;offerta di pornografia e&amp;rsquo; immensa e potenzialmente infinita. I costi sono piccolissimi , quando non inesistenti.&lt;/p&gt;
+
+&lt;h2&gt;Domanda&lt;/h2&gt;
+
+&lt;p&gt;La domanda del porno non e&amp;rsquo; semplicemente la domanda di qualcosa da vedere per potersi masturbare. Se osservate i maggiori network del porno, come &lt;a href=&#34;http://porn.com&#34;&gt;http://porn.com&lt;/a&gt; vedete immediatamente che esiste tutto un ecosistema di servizi attorno al porno.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;- Innanzitutto, loggandosi e&#39; possibile commentare , interagire con altri utenti.
+
+- Se siete iscritti ad un sito siete anche produttori , e potete mettere su i vostri filmati, cosi&#39; come aprire dei canali appositi.
+
+- I siti di questo tipo offrono sempre siti di chat erotica.
+
+- I siti di questo tipo offrono sempre pubblicita&#39; di siti di dating.
+
+- Non manca mai la pubblicita&#39; di altri siti e di medicinali (viagra, cialis, etc)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Insomma, questi siti non si limitano ad offrire porno: si tratta di una vera e propria galassia organizzatissima , un complesso industriale capace di coprire un enorme ventaglio di bisogni. In questo senso, la domanda e&amp;rsquo; potenzialmente illimitata.&lt;/p&gt;
+
+&lt;h2&gt; Un ordine di grandezza &lt;/h2&gt;
+
+&lt;p&gt;La magnitudo di questi fenomeni e&amp;rsquo; impressionante. Nonostante l&amp;rsquo;avvento di giganti come gli OTT (Facebook, Google, etc) , il porno e&amp;rsquo; il contenuto piu&amp;rsquo; scambiato su internet.&lt;/p&gt;
+
+&lt;p&gt;I servizi porno sono stati i pionieri dell&amp;rsquo; e-commerce, dell m-commerce, dello streaming online, e hanno inventato le CDN molto prima che fossero di moda.&lt;/p&gt;
+
+&lt;h3&gt;Di per se&#39; il porno e&#39; l&#39;unico vero &#34;underground&#34; di Internet. &lt;/3&gt;
+
+
+Dico che e&#39; l&#39;unico underground vero perche&#39; e&#39; l&#39;unico sistema economicamente autosufficiente. Non sono parte di un altro ecosistema, come potrebbe essere Farmville rispetto a Facebook. Hanno il loro habitat. Si fanno il software. Si costruivano software molto piu&#39; sofisticati di qualsiasi e-commerce gia&#39; dieci, quindici anni fa.
+
+L&#39;ordine di grandezza del mondo del porno e&#39; stimato in svariate centinaia di miliardi di dollari di cash flow (2)
+
+Abbiamo dunque a che fare con una &#34;citta&#39; sotterranea &#34; piu&#39; che con un quartiere a luci rosse, dal momento che si tratta di un sistema strutturalmente autonomo.
+
+Questo gia&#39; basterebbe a mettere in allarme moltissimi tra gli OTT, ma i problemi non finiscono qui. Questa citta&#39; underground ha altre caratteristiche che non piaceranno a diversi.
+
+La prima e&#39; che e&#39; estremamente resiliente e decentralizzata. Quando entrate nella catena di, che so io, pornhub, vi viene dato un software da far girare sul vostro server. La catena di pornhub non fa altro che agire come CDN distribuita , nel senso che nessun nodo contiene davvero i filmati: a seconda della vostra nazionalita&#39;, essi vi vengono mandati sempre dai pod piu&#39; vicini.
+
+Se e&#39; stato possibile abbattere Kim Dot Com semplicemente bloccando uno dei suoi datacenter, non sarebbe possibile farlo, che so io, con un xhamster. Migliaia di persone nel mondo che hanno comprato un pod (o come li chiamano adesso) continuerebbero a servire la catena.
+
+A che cosa e&#39; dovuta questa estrema mania per la resilienza? E&#39; un pochino come nel mondo dei sexy shop italiani: se ne devi aprire uno, aprine due in due citta&#39; diverse, perche&#39; difficilmente avrai il solito pretino/magistrato/bigotto che ti fa chiudere contemporaneamente in entrambe le citta&#39;. Idem per le riviste porno: mai aprirne una sola, sempre aprire molte case editrici di giornali simili. Il principio si e&#39; semplicemente spostato su internet.
+
+I tentativi di chiudere siti porno per farsi pubblicita&#39; , tentativi svolti da polizia, magistrature varie, pretini in vena di crociate e altri bigotti, sono iniziati insieme all&#39;industria del porno online.
+
+In lunghi anni nei quali i siti porno hanno dovuto subire ogni genere di angheria ogni volta che qualcuno voleva giocare al crociato, essi si sono specializzati. Si sono evoluti, creando delle vere e proprie suite di programmi distribuiti che consentono al sito di essere non un sito, ma una &#34;rete&#34; di siti. E&#39; piu&#39; semplice buttare giu&#39; youtube che buttare giu&#39;  youporn.
+
+Bene. Detto questo, adesso il problema e&#39; &#34;ma perche&#39; tanto odio?&#34;
+
+Qualcuno scrive che sia per evitare cause legali, ma sono scemenze. Innanzitutto i termini e le condizioni per usare i servizi di blogger sono tali che tali cause sono controproducenti. Inoltre le cifre in gioco sono basse: certo sarebbero possibili class action, ma se vi chiedessi quale sia stata l&#39;ultima class action contro Facebook, nessuno di voi mi saprebbe rispondere.
+
+Esistono diverse voci.
+
+La prima voce dice che OTT &#34;A&#34; ed OTT &#34;B&#34; si siano messi d&#39;accordo per non far alzare i costi del personale. Allora un giocno Caio e Sempronio si licenziano da OTT &#34;A&#34; e chiedono ad OTT &#34;B&#34; di aprire una sede in Europa. Il boss di OTT &#34;A&#34; scrive al boss di OTT &#34;B&#34; qualcosa come &#34;abbiamo un accordo&#34; e Caio e Sempronio rimangono senza lavoro.
+
+La storia continua con Caio e Sempronio che dirigono una sede virtuale di un grosso network del porno. La storia dice che non hanno mai visto tanti soldi in vita loro. La storia parla di colleghi di Caio e Sempronio che abbandonano la scrivania per cercare lavori meglio pagati.
+
+La seconda voce parla di social network del dating che crescono di numero, capacita&#39; tecnologica e introiti pubblicitari. Parla di numeri impressionanti, ovvero che stiano nascendo i primi Facebook del dating, e parlano di introiti pubblicitari crescenti da parte di siti di gambling, gioco d&#39;azzardo e hotel connessi per gli &#34;incontri&#34;. La seconda voce parla di hotel che trovano piu&#39; conveniente la pubblicita&#39; su un sito di dating/cheating che su un social network.
+
+Io sono per una terza opzione.
+
+&lt;h2&gt;I social network sono disfunzionali &lt;/h2&gt;
+
+Se avete un account su Facebook e io vi chiedessi in che cosa Facebook vi abbia migliorato la vita, la risposta e&#39; semplice: niente. Certo, Facebook _vi consente di rimanere in contatto con le persone importanti della vostra vita_. Ma questo nasconde una piccola trappola: Facebook vi ***Costringe*** a rimanere in contatto con le persone importanti della vostra vita. Se prima vi eravate tolti dalle palle il vostro capo uscendo dall&#39;azienda, adesso andate al ristorante , lo mettete su foursquare e vedete il commento del vostro capo.
+
+Ma non solo: se prima i colleghi erano i colleghi e gli amici erano gli amici, adesso sono tutti in contatto. Una cosa della quale avete bisogno quanto di un asteroide. E se anche avete provato a porre qualche rimedio a tutto questo gestendo le impostazioni della privacy, esse sono cambiate unilateralmente in modo tale che non vi era consentito di rischiare: la vostr aprivacy poteva cadere in qualsiasi momento, dopo una apposita comunicazione del social network.
+
+Come se non bastasse, i social network si stanno rivelando uno strumento di stalking possente, per via del fatto che si ostinano a chiedervi di inserire dati veri, sia perche&#39; offrono pochissimi metodi per impedire lo stalking.
+
+E poi diciamolo: social network come Facebook servono principalmente ad esibirsi: &#34;guardatemi! Quanto sono fico!&#34;. E questo e&#39; chiaramente un richiamo per l&#39;accoppiamento. Ma quanto avete rimorchiato su Facebook/G+ &amp;co? Diciamolo pure: siete fichissimi, e non battete chiodo.
+
+Diversa e&#39; la storia dei &#34;nuovi&#34; social network per dating/cheating/roleplay:
+
+    - La privacy e&#39; centrale. Non si sogneranno MAI di chiedervi il vostro vero nome.
+    - L&#39;isolamento e&#39; assolutamente fondamentale: sono costruiti per IMPEDIRE al vostro capo di sapere di voi.
+    - Lo stalking e&#39; quasi impossibile. Sin dagli albori questi sistemi sono nati per tenere lontani i peggio maniaci.
+    - Ehi, ma si rimorchia davvero!
+
+
+La mia opinione personale e&#39; che , finito l&#39; Hype, sempre piu&#39; persone si chiedono che diavolo ci stiano a fare su un social networkk.
+Moltissime di queste persone si rispondono &#34;speravo di rimorchiare&#34;, e quasi tutte scoprono che i siti di dating moderni sono piu&#39; efficaci.
+
+&lt;h3&gt; Il mondo del &#34;porno&#34; oggi e&#39; un ecosistema che va dalle farmacie ai siti di incontri alla pubblicita&#39; di hotel alla pubblicita&#39; di viaggi, al gambling . Girando per siti porno ormai si entra in contatto con un complesso di servizi che vanno molto al di la della semplice pornografia. &lt;/h3&gt;
+
+&lt;p&gt;Allora, chiediamoci un pochino: avendo mezz&amp;rsquo;ora per mostrare a Facebook quanto sono fico perche&amp;rsquo; sono ad una festa , o in palestra, o quanto sono ricco, o quanto sono bello, o quanto sono alla moda,   mi conviene farlo su un sito di incontri o su Facebook?&lt;/p&gt;
+
+&lt;p&gt;E&amp;rsquo; inutile girarci attorno: se ho tempo X da spendere e devo scegliere come, conviene il sito di incontri.&lt;/p&gt;
+
+&lt;p&gt;La mia opinione e&amp;rsquo; che stia avvenendo un lenta migrazione di utenti dai grandi social network ai siti di incontri, che ormai fanno numeri enormi, se non paragonabili a Facebook, Twiter &amp;amp;co. Questi siti, pero&amp;rsquo;, non sono altrettanto disfunzionali sul piano della privacy e della neutralita&amp;rsquo; rispetto alla vita reale. Sono siti ove la privacy e&amp;rsquo; sacra e che sono disegnati , sin dalla prima concezione, per tenere a bada occhi indiscreti.&lt;/p&gt;
+
+&lt;p&gt;E oggi che questo mondo sta crescendo, i grandi OTT abbiano capito che dietro alla parola &amp;ldquo;porno&amp;rdquo; c&amp;rsquo;e&amp;rsquo; forse l&amp;rsquo;unico complesso industriale capace di far loro concorrenza.&lt;/p&gt;
+
+&lt;p&gt;Presto metterete +1 su youporn. Magari non si chiamera&amp;rsquo; youporn , ma &amp;ldquo;match.com&amp;rdquo;, ma la cosa certa e&amp;rsquo; che si tratta di un mondo in crescita, e che
+se cercate i piu&amp;rsquo; popolari network di cheating/dating su google, trovate solo due o tre annunci a pagamento.&lt;/p&gt;
+
+&lt;p&gt;Segno chiaro che qualcuno ha modificato gli algoritmi di ricerca ad hoc. E se non si fa per guadagnare soldi, si fa per paura.&lt;/p&gt;
+
+&lt;p&gt;(1) &lt;a href=&#34;https://www.youtube.com/watch?v=plT5989P1v4&#34;&gt;https://www.youtube.com/watch?v=plT5989P1v4&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;(2) &lt;a href=&#34;http://www.economywatch.com/world-industries/porn-industry.html&#34;&gt;http://www.economywatch.com/world-industries/porn-industry.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
