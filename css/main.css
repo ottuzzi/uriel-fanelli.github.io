@@ -221,7 +221,7 @@ pre {
 pre code {
     overflow: auto;
     white-space: pre;
-    word-wrap: normal;
+    word-wrap: break-word;
 }
 
 .pager li>a {
