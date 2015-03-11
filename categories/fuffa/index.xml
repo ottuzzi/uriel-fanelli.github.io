@@ -25,9 +25,12 @@
 
 &lt;p&gt;In questo modo, nella visione di Gentile - e nella scuola che lui ha poi partorito - esistevano due classi di persone.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;-La prima era la classe dirigente. Gente per la quale _nessuna abilita&#39; pratica_ era motivo di vanto. Loro facevano lavori &amp;quot;di concetto&amp;quot; , il che escludeva tutto il resto tranne gli hobbies.
--La seconda era la classe lavoratrice. Il &amp;quot;buon uomo&amp;quot;, il servo, che di fatto poteva anche essere un bravissimo esecutore, ma non era destinato ne&#39; ad avere visione ne&#39; capacita&#39; decisionale.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;La prima era la classe dirigente. Gente per la quale &amp;ldquo;nessuna abilita&amp;rsquo; pratica&amp;rdquo; era motivo di vanto. Loro facevano lavori &amp;ldquo;di concetto&amp;rdquo; , il che escludeva tutto il resto tranne gli hobbies.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;La seconda era la classe lavoratrice. Il &amp;ldquo;buon uomo&amp;rdquo;, il servo, che di fatto poteva anche essere un bravissimo esecutore, ma non era destinato ne&amp;rsquo; ad avere visione ne&amp;rsquo; capacita&amp;rsquo; decisionale.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;In questa visione, mediata dal medioevo (e ancora presente nelle aree nobiliari della cultura anglosassone, che sono nate nel medioevo) , chi comanda - e guadagna - fa un lavoro ipso facto &amp;ldquo;di concetto&amp;rdquo;,  il che lo solleva da incombenze pratiche.&lt;/p&gt;
 
@@ -37,9 +40,12 @@
 
 &lt;p&gt;Si realizzava, almeno nell&amp;rsquo; it, una situazione per la quale:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;- Da un lato avevate i brillanti. Quelli entusiasti che sedevano al parco con il loro Mac, disegnavano un servizio che capisce se sei collegato &amp;quot;da internet&amp;quot; o &amp;quot;da wifi&amp;quot;  o da &amp;quot;mobile&amp;quot;, e disegnavano TRE interfacce utente diverse.
-- I tecnici, che arrivavano e dicevano &amp;quot;due use-cases sono identici, quindi ne realizziamo due su tre. L&#39;altro e&#39; fuori scope&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Da un lato avevate i brillanti. Quelli entusiasti che sedevano al parco con il loro Mac, disegnavano un servizio che capisce se sei collegato &amp;ldquo;da internet&amp;rdquo; o &amp;ldquo;da wifi&amp;rdquo;  o da &amp;ldquo;mobile&amp;rdquo;, e disegnavano TRE interfacce utente diverse.&lt;/li&gt;
+&lt;li&gt;I tecnici, che arrivavano e dicevano &amp;ldquo;due use-cases sono identici, quindi ne realizziamo due su tre. L&amp;rsquo;altro e&amp;rsquo; fuori scope&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;ovviamente, i brillanti della situazione erano sempre brillanti, e andavano sempre lamentando di questi tecnici &amp;ldquo;Doktor Nein&amp;rdquo; , che dicono sempre no a queste idee brillanti, tirando fuori scuse tipo la termodinamica o le specifiche tecniche. Se io posso immaginare il moto perpetuo, perche&amp;rsquo; tu non lo puoi fare? Ci servono tecnici migliori, piu&amp;rsquo; entusiasti! Piu&amp;rsquo; brillanti! Piu&amp;rsquo; agili! Piu&amp;rsquo; creativi!&lt;/p&gt;
 
@@ -94,13 +100,16 @@ Quando questo ragazzo finisce di mostrare la sua applicazione big data che fa le
 &lt;p&gt;&amp;ldquo;in futuro avremo una console omnicomprensiva che ci terra&amp;rsquo;informati in tempo reale su ogni genere di cosa accada sui social network del livestream. Questa console sara&amp;rsquo; modulare, autoorganizzante, e tramite una IA sapra&amp;rsquo; capire cosa vogliamo leggere, cosa ci interessa e cosa no: frattali, computer quantistici e startup big data!!!&amp;ldquo;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Aha.&lt;/p&gt;
+&lt;p&gt;Aha. Facciamo qualche domanda pratica.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;-Mi fai vedere una cosa simile che funzioni? 
--Ehm. No. Ma ti posso mostrare nei miei grafici che questa e&#39; la tendenza del futuro. Vedi questa linea verde? E la &amp;quot;desideranza della convergenza&amp;quot;(1), e come vedi ha un andamento esponenziale(2), quindi e&#39; destinato a superare la &amp;quot;lasagnilita&#39; della rimanenza&amp;quot;, nella riga marrone merda (3), che quindi non cresce piu&#39; , e di conseguenza e&#39; destinata a morire(4). Gia&#39; quando uscirai da questa stanza, Facebook sara&#39; fallita e Zuckerberg sara&#39; il mio cane.(5) 
-- E che dati hai usato per fare questo grafico?
-- E&#39; ...e&#39; big data. Sono troppi per mostrarli. Devi fidarti.(6)
-&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Mi fai vedere una cosa simile che funzioni?&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Ehm. No. Ma ti posso mostrare nei miei grafici che questa e&amp;rsquo; la tendenza del futuro. Vedi questa linea verde? E la &amp;ldquo;desideranza della convergenza&amp;rdquo;(1), e come vedi ha un andamento esponenziale(2), quindi e&amp;rsquo; destinato a superare la &amp;ldquo;lasagnilita&amp;rsquo; della rimanenza&amp;rdquo;, nella riga marrone merda (3), che quindi non cresce piu&amp;rsquo; , e di conseguenza e&amp;rsquo; destinata a morire(4). Gia&amp;rsquo; quando uscirai da questa stanza, Facebook sara&amp;rsquo; fallita e Zuckerberg sara&amp;rsquo; il mio cane.(5)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;E che dati hai usato per fare questo grafico?&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;E&amp;rsquo; &amp;hellip;e&amp;rsquo; big data. Sono troppi per mostrarli. Devi fidarti.(6)&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Ecco, penso che tutto questo hype dei &amp;ldquo;makers&amp;rdquo; sia bello. Non salvera&amp;rsquo; il mondo, sia chiaro, non cambiera&amp;rsquo; il futuro, ma da quando i nuovi dei sono i makers, tutti gli altri sedicenti &amp;ldquo;architetti di sistema&amp;rdquo; del palazzo sono venuti a chiedermi &amp;ldquo;da dove si scarica Putty&amp;rdquo;?(sic!)&lt;/p&gt;
 
