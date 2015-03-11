@@ -328,7 +328,8 @@ code, tt {
     padding: 1px 3px;
     font-family: Inconsolata, monospace, sans-serif;
     font-size: 0.85em;
-    white-space: pre-wrap;
+    white-space: auto;
+    word-break: keep-all;
     border: #E3EDF3 1px solid;
     background: #F7FAFB;
     border-radius: 2px;
@@ -343,7 +344,8 @@ pre {
     padding: 10px;
     font-family: Inconsolata, monospace, sans-serif;
     font-size: 0.9em;
-    white-space: pre;
+    white-space: auto;
+    word-break: keep-all;
     overflow: auto;
     background: #F7FAFB;
     border-radius: 3px;
@@ -352,8 +354,9 @@ pre {
 pre code, tt {
     font-size: inherit;
     white-space: -moz-pre-wrap;
-    white-space: pre-wrap;
+    white-space: auto;
     background: transparent;
+    word-break: keep-all;
     border: none;
     padding: 0;
 }
