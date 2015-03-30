@@ -31,7 +31,7 @@
 
 &lt;p&gt;Cosi&amp;rsquo;, visto che escludiamo l&amp;rsquo;email, se volete contattarmi potete&lt;/p&gt;
 
-&lt;p&gt;##Tox##&lt;/p&gt;
+&lt;h2&gt;Tox&lt;/h2&gt;
 
 &lt;p&gt;Tox e&amp;rsquo; un protocollo per le chat criptate e &amp;ldquo;abbastanza&amp;rdquo; decentralizzate, relativamente sicuro, si scarica &lt;a href=&#34;https://wiki.tox.im/Binaries&#34;&gt;da questo sito&lt;/a&gt;.&lt;/p&gt;
 
@@ -55,17 +55,17 @@
 
 &lt;p&gt;&lt;/center&gt;&lt;/p&gt;
 
-&lt;p&gt;##Twister##&lt;/p&gt;
+&lt;h2&gt;Twister&lt;/h2&gt;
 
 &lt;p&gt;Twister e&amp;rsquo; un sistema quasi identico a twitter che serve a fare quello che si fa con twitter, ma non gira sui serve r di qualcun altro: lo installate sul vostro computer ed e&amp;rsquo; tutto.Nessuno vede cose che non deve vedere. Si scarica da qui: &lt;a href=&#34;http://twister.net.co&#34;&gt;twister microblogging&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;pre&gt;
+Twister: @urielfanelli
+&lt;pre&gt;
+&lt;/center&gt;&lt;/p&gt;
 
-&lt;p&gt;Twister: @urielfanelli&lt;/p&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;##Bitcoin##&lt;/p&gt;
+&lt;h2&gt;Bitcoin&lt;/h2&gt;
 
 &lt;p&gt;Bitcoin e&amp;rsquo; un modo per trasferire soldi senza banche, conti correnti o spese. Lo aggiungo per chi dice che pagherebbe per leggere il blog. Bene: che aspetti? Si batte la fiacca?&lt;/p&gt;
 
@@ -84,7 +84,7 @@
 
 &lt;p&gt;&lt;/center&gt;&lt;/p&gt;
 
-&lt;p&gt;##RetroShare##&lt;/p&gt;
+&lt;h2&gt;RetroShare&lt;/h2&gt;
 
 &lt;p&gt;retroshare e&amp;rsquo; un software di file sharing F2F , basato su DHT, decentralizzato e anonimo.
 Si scarica da qui: &lt;a href=&#34;http://retroshare.sourceforge.net&#34;&gt;http://retroshare.sourceforge.net&lt;/a&gt;&lt;/p&gt;
@@ -116,7 +116,7 @@ GTEuhUxzd7XGEF9MUIhFPBCVNjoVKgI=
 --LOCAL--192.168.2.51:35234;--EXT--100.100.100.100:35234;
 &lt;/pre&gt;
 
-&lt;p&gt;##Identi.ca##&lt;/p&gt;
+&lt;h2&gt;Identi.ca&lt;/h2&gt;
 
 &lt;p&gt;identi.ca e&amp;rsquo; un network distribuito che gira su microserver sparsi per il mondo.
 Non avendo necessariamente punti centrali, ed essendo una rete federata, e&amp;rsquo; un
@@ -126,7 +126,7 @@ social network estremamente resiliente. Per informazioni su pump.io &lt;a href=&
     -Uriel-Fanelli@microca.st
 &lt;/pre&gt;
 
-&lt;p&gt;##Chiave pubblica GPG##&lt;/p&gt;
+&lt;h2&gt;Chiave pubblica GPG&lt;/h2&gt;
 
 &lt;p&gt;Per chi volesse sapere se parla davvero con me o no:&lt;/p&gt;
 
