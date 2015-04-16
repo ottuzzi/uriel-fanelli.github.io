@@ -62,7 +62,7 @@ Domanda: se ci faccio passare un file di log di 200MB, mappando una riga per ele
 
 &lt;p&gt;Quindi, non solo usare il codice come documentazione e&amp;rsquo; un errore per via dell&amp;rsquo;incompletezza: e&amp;rsquo; un errore per via dell&amp;rsquo;ambiguita&amp;rsquo; .&lt;/p&gt;
 
-&lt;p&gt;Andiamo ad un altro punto: &amp;ldquo;il test e&amp;rsquo; una documentazione sufficiente&amp;rdquo;. No, non lo e&amp;rsquo;.E per dimostrarlo scrivero&amp;rsquo; un codice che ha gigantesche limitazioni, impossibili da dimostrare usando codice e test. E lo scrivero&amp;rsquo; semplice. Facile da leggere.&lt;/p&gt;
+&lt;p&gt;Andiamo ad un altro punto: &amp;ldquo;il test e&amp;rsquo; una documentazione sufficiente&amp;rdquo;. No, non lo e&amp;rsquo;.E per dimostrarlo scrivero&amp;rsquo; un codice che ha gigantesche limitazioni concettuali, quasi invisibili sui test, che al massimo mostreranno dei fallimenti puntuali. E lo scrivero&amp;rsquo; semplice. Facile da leggere.&lt;/p&gt;
 
 &lt;p&gt;Allora, prendiamo questa formula :&lt;/p&gt;
 
