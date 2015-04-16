@@ -136,6 +136,8 @@ double funzione(double x)
 
 &lt;p&gt;Come vedete, il risultato e&amp;rsquo; sbagliato. (ovvio, visto che non ne esiste uno giusto). Ma quel che e&amp;rsquo; peggio lo potrete vedere stampando, iterazione dopo iterazione, i valori di &amp;ldquo;d&amp;rdquo; e di &amp;ldquo;acca&amp;rdquo;: &lt;em&gt;terrificante, vero&lt;/em&gt;?(1) Specialmente quel &amp;ldquo;saltino&amp;rdquo; da 4.611.686.018.427.387.904 a &amp;hellip; zero, che trovo commovente: del resto stiamo stampando l&amp;rsquo;inverso di un numero piu&amp;rsquo; piccolo dell&amp;rsquo;epsilon di macchina&amp;hellip;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Faccio presente, pero&amp;rsquo;, che se avessi calcolato la derivata in QUALSIASI altro valore di x, non si sarebbe notato nulla.&lt;/strong&gt; Avrei potuto scriverlo ANCHE nei test che si concludono &lt;strong&gt;con successo&lt;/strong&gt;!&lt;/p&gt;
+
 &lt;p&gt;Adesso, chi ha studiato sa cosa stia succedendo ma&amp;hellip; voi non scrivereste una cosa simile. Pero&amp;rsquo; siamo al punto in cui chi legge NON SA , e deve capire leggendo i test. Quanto &lt;strong&gt;spiega&lt;/strong&gt; questo test fallito, a chi non aveva capito il problema da subito?&lt;/p&gt;
 
 &lt;p&gt;Quando io avessi mostrato al tizio che trova su google il nostro sito e vuole un metodo rapido per fare la derivata (che in questo esempio fallisce), cosa ci ha capito?  Cosa capisce da questo  test, che e&amp;rsquo; chiarissimo praticamente per chiunque programmi?&lt;/p&gt;
