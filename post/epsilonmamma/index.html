@@ -283,9 +283,9 @@ double funzione(double x)
     }
 </pre>
 
-<p>voi direte: ma perche&rsquo; fallisce?</p>
+<p>voi direte: ma perche&rsquo; dici che fallisce?</p>
 
-<p>Mettiamola cosi&rsquo;: e&rsquo; concepito per amplificare l&rsquo;errore di macchina. Sul mio compilatore c, in questo momento, usando un double restituisce -0.11111110448837280273 , credendo che sia -<sup>1</sup>&frasl;<sub>9</sub> . Per aver usato dei &ldquo;double&rdquo; potremmo avere di meglio, ma anche usando dei long double, otteniamo -0.11111111112404614687! Un po&rsquo; schifino,  diciamo. Si, i primi decimali sono corretti, ma per essere -<sup>1</sup>&frasl;<sub>9</sub> fa &ldquo;schifetto&rdquo;.</p>
+<p>Mettiamola cosi&rsquo;: e&rsquo; concepito per amplificare l&rsquo;errore di macchina. Sul mio compilatore c, in questo momento, usando un double restituisce -0.11111110448837280273 , credendo che sia -<sup>1</sup>&frasl;<sub>9</sub> . Per aver usato dei &ldquo;double&rdquo; potremmo avere di meglio, ma anche usando dei long double, otteniamo -0.11111111112404614687! Un po&rsquo; schifino,  diciamo. Si, i primi decimali sono corretti, ma per essere -<sup>1</sup>&frasl;<sub>9</sub> fa &ldquo;schifetto&rdquo;. Non ha proprio fallito-fallito: ha mostrato i propri limiti di precisione, ecco.</p>
 
 <p>Sono curioso di sapere cosa restituisca in altri linguaggi, ma a meno che i vostri compilatori siano molto furbi, oltre questo non mi aspetto nulla di buono.  Quell&rsquo;algoritmo fa schifo.</p>
 

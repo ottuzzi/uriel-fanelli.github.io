@@ -168,9 +168,9 @@ double funzione(double x)
     }
 &lt;/pre&gt;
 
-&lt;p&gt;voi direte: ma perche&amp;rsquo; fallisce?&lt;/p&gt;
+&lt;p&gt;voi direte: ma perche&amp;rsquo; dici che fallisce?&lt;/p&gt;
 
-&lt;p&gt;Mettiamola cosi&amp;rsquo;: e&amp;rsquo; concepito per amplificare l&amp;rsquo;errore di macchina. Sul mio compilatore c, in questo momento, usando un double restituisce -0.11111110448837280273 , credendo che sia -&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;9&lt;/sub&gt; . Per aver usato dei &amp;ldquo;double&amp;rdquo; potremmo avere di meglio, ma anche usando dei long double, otteniamo -0.11111111112404614687! Un po&amp;rsquo; schifino,  diciamo. Si, i primi decimali sono corretti, ma per essere -&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;9&lt;/sub&gt; fa &amp;ldquo;schifetto&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Mettiamola cosi&amp;rsquo;: e&amp;rsquo; concepito per amplificare l&amp;rsquo;errore di macchina. Sul mio compilatore c, in questo momento, usando un double restituisce -0.11111110448837280273 , credendo che sia -&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;9&lt;/sub&gt; . Per aver usato dei &amp;ldquo;double&amp;rdquo; potremmo avere di meglio, ma anche usando dei long double, otteniamo -0.11111111112404614687! Un po&amp;rsquo; schifino,  diciamo. Si, i primi decimali sono corretti, ma per essere -&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;9&lt;/sub&gt; fa &amp;ldquo;schifetto&amp;rdquo;. Non ha proprio fallito-fallito: ha mostrato i propri limiti di precisione, ecco.&lt;/p&gt;
 
 &lt;p&gt;Sono curioso di sapere cosa restituisca in altri linguaggi, ma a meno che i vostri compilatori siano molto furbi, oltre questo non mi aspetto nulla di buono.  Quell&amp;rsquo;algoritmo fa schifo.&lt;/p&gt;
 
