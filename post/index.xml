@@ -192,7 +192,7 @@ double funzione(double x)
 
 &lt;p&gt;Il codice pericoloso NON viene fermato ne&amp;rsquo; leggendo il codice ne&amp;rsquo; leggendo i test. Anche quando i test falliscano, e noi forniamo i test che falliscono, &lt;strong&gt;SOLO ALCUNI&lt;/strong&gt; avranno capito perche&amp;rsquo; falliscono e quali altri casi analoghi fallirano.&lt;/p&gt;
 
-&lt;p&gt;Il resto, se il codice e&amp;rsquo; abbastanza complicato, non capira&amp;rsquo; affatto il problema. Si limiteranno ad usare un codice che e&amp;rsquo; limitatissimo.&lt;/p&gt;
+&lt;p&gt;Il resto, se il codice e&amp;rsquo; abbastanza complicato, non capira&amp;rsquo; affatto il problema. Si limiteranno ad usare un codice che e&amp;rsquo; limitatissimo senza averne capiti i limiti concettuali.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3Jvui3-dlJA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
