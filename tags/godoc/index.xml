@@ -186,7 +186,7 @@ double funzione(double x)
 
 &lt;p&gt;Quindi no: &lt;strong&gt;ne&amp;rsquo; il codice ne&amp;rsquo; i test possono sostituire la documentazione&lt;/strong&gt;. I limiti &lt;strong&gt;concettuali&lt;/strong&gt; di un algoritmo NON sono spiegabili con dei test , positivi o negativi che siano. Serve proprio la documentazione.&lt;/p&gt;
 
-&lt;p&gt;Se qualcuno prendesse quel pezzo di codice sopra e iniziassero ad usarlo per fare cose serie, i risultati potrebbero essere comici. I problemi salterebbero fuori solo in alcuni casi, gli errori di accumulerebbero lentamente, sino a che &amp;hellip;. paf.  Il vostro conto in banca sparisce.&lt;/p&gt;
+&lt;p&gt;Se qualcuno prendesse quel pezzo di codice sopra e iniziasse ad usarlo per fare cose serie, i risultati potrebbero essere comici. I problemi salterebbero fuori solo in alcuni casi, gli errori di accumulerebbero lentamente, sino a che &amp;hellip;. paf.  Il vostro conto in banca sparisce.&lt;/p&gt;
 
 &lt;p&gt;Il codice pericoloso NON viene fermato ne&amp;rsquo; leggendo il codice ne&amp;rsquo; leggendo i test. Anche quando i test falliscano, e noi forniamo i test che falliscono, &lt;strong&gt;SOLO ALCUNI&lt;/strong&gt; avranno capito perche&amp;rsquo; falliscono e quali altri casi analoghi fallirano.&lt;/p&gt;
 
