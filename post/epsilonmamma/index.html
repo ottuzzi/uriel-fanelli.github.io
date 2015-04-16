@@ -145,7 +145,7 @@ print "@invited\n"
 <p>sembra bello, giusto? Funziona benissimo, se abbiamo tre invitati. E funziona benissimo anche con 100 invitati.
 Domanda: se ci faccio passare un file di log di 200MB, mappando una riga per elemento dell&rsquo;array, che succede?</p>
 
-<p>Beh, chi conosce Perl sa bene che impieghero&rsquo; secoli per manipolarlo. La ragione e&rsquo; legata al fatto che map produrra&rsquo; innanzitutto una copia dell&rsquo;intero array sulla quale lavorare, <strong>e ne fara&rsquo; una diversa ad ogni invocazione di map</strong>. Se quel &ldquo;map&rdquo; lo infilassi in un ciclo di loop, cioe&rsquo;, sarei nella cacca pura.</p>
+<p>Beh, chi conosce Perl sa bene che impieghero&rsquo; secoli per manipolarlo. La ragione e&rsquo; legata al fatto che map produrra&rsquo; innanzitutto una copia dell&rsquo;intero array sulla quale lavorare, <strong>e ne fara&rsquo; una diversa ad ogni invocazione di map</strong>. Se quel &ldquo;map&rdquo; su grandi file io lo infilassi in un ciclo di loop, cioe&rsquo;, sarei nella cacca pura.</p>
 
 <p>Ma c&rsquo;e&rsquo; di peggio. Guardiamo un attimo la funzione &ldquo;grep&rdquo; di perl.</p>
 
