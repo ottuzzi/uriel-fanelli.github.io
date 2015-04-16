@@ -97,7 +97,7 @@ double derivata( double icszero )
 
 &lt;p&gt;Come vedete, a leggerlo il codice fa ESATTAMENTE quello che dice la formula. Ha senso. Con una scelta oculata dei nomi delle variabili, si &lt;em&gt;pronuncia&lt;/em&gt; persino allo stesso modo. Sul piano del codice, potete dire quel che volete, ma e&amp;rsquo; esattamente l&amp;rsquo;esecuzione di quella formula. Quindi, il codice dice che sto facendo quella roba.&lt;/p&gt;
 
-&lt;p&gt;Certo, &lt;strong&gt;se potessi documentare&lt;/strong&gt; dovrei dire che la funzione NON va a fare alcun controllo sulla derivabilita&amp;rsquo;, dunque della continuita&amp;rsquo;. Ma non posso, e quindi dovete capirlo da soli, oppure vedete una formula implementata cosi com&amp;rsquo;e&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;Certo, &lt;strong&gt;se potessi documentare&lt;/strong&gt; dovrei dire che la funzione NON va a fare alcun controllo sulla derivabilita&amp;rsquo;, tantomeno della continuita&amp;rsquo;. Ma non posso, e quindi dovete capirlo da soli, oppure vedete una formula implementata cosi com&amp;rsquo;e&amp;rsquo;.&lt;/p&gt;
 
 &lt;p&gt;Allora mi direte che se scriviamo dei test, allora capiremo tutto. Ok.&lt;/p&gt;
 
