@@ -77,7 +77,7 @@ Domanda: se ci faccio passare un file di log di 200MB, mappando una riga per ele
 
 // &#34;derivata&#34; della stessa 
 
-double derivata( double punto )
+double derivata( double icszero )
     {
     double d1,d,acca;
     d=0;d1=1;
@@ -85,7 +85,7 @@ double derivata( double punto )
     while ( d != d1  ) //vabe&#39;, almeno proviamoci
         {           
         d1 = d; 
-        d=(funzione(punto+acca)- funzione(punto))/(acca);
+        d=(funzione(icszero+acca)- funzione(icszero))/(acca);
         acca = acca / 2.0; 
         }
     return d;
