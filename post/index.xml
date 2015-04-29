@@ -6,8 +6,163 @@
     <description>Recent content in Posts on KEIN PFUSCH, BITTE!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2015 21:45:21 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2015 20:55:46 +0200</lastBuildDate>
     <atom:link href="http://www.wolfstep.cc/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ancora sulla sensazione di asteroide</title>
+      <link>http://www.wolfstep.cc/post/tirannobaldo/</link>
+      <pubDate>Wed, 29 Apr 2015 20:55:46 +0200</pubDate>
+      
+      <guid>http://www.wolfstep.cc/post/tirannobaldo/</guid>
+      <description>&lt;p&gt;In questi giorni scrivo meno perche&amp;rsquo; sono impegnato professionalmente, (e spendo tempo nell&amp;rsquo;esercitarmi con golang, visto che mi sto divertendo) nel senso che il futuro bussa alle porte e dopo un gran parlare le case automobilistiche iniziano a fare sul serio col M2M (Machine to Machine). Si tratta proprio dei momenti nei quali mi prende la sensazione di asteroide, e volevo spiegarla un attimo, mentre mi si spiega davanti agli occhi.&lt;/p&gt;
+
+&lt;p&gt;Sinora le case automobilisiche non avevano mai cercato di fare cose &lt;strong&gt;davvero&lt;/strong&gt; informatiche. Hanno il loro IT, i loro centri di calcolo, i loro simulatori, e tutto quanto come e&amp;rsquo; ovvio che sia, ma di informatica dentro le auto ne e&amp;rsquo; entrata poca. Viene da ridere quando vi vendono l&amp;rsquo;auto &amp;ldquo;che ha il bluetooth&amp;rdquo; come se fosse scienza spaziale, quando insomma, il bluetooth il genere umano ce l&amp;rsquo;ha&amp;hellip; &amp;ldquo;mica da mo&amp;rsquo; &amp;ldquo;.&lt;/p&gt;
+
+&lt;p&gt;Sto iniziando a vedere il problema dal lato loro.&lt;/p&gt;
+
+&lt;p&gt;Sinora le case hanno avuto migliaia di ingegneri elettronici a costruire la circuitazione di bordo. Il nostro cliente ne ha circa 3300.&lt;/p&gt;
+
+&lt;p&gt;Questi elettronici stanno a progettare e a rendere &amp;ldquo;robusta&amp;rdquo; per anni di lavoro (tra una cosa e l&amp;rsquo;altra calcolano in 15 anni il tempo di vita di un&amp;rsquo;auto) , e quando intendono robusta intendono una cosa che regga ad urto, cambi di temperatura, umidita&amp;rsquo;, vibrazioni su ogni frequenza, e non tradisca mai.&lt;/p&gt;
+
+&lt;p&gt;Fanno un uso massivo di SoC , FPGA e Asic, come e&amp;rsquo; ovvio che sia.&lt;/p&gt;
+
+&lt;p&gt;Ora, quali sono i requisiti di un SoC o di un Asic moderno?&lt;/p&gt;
+
+&lt;p&gt;Beh, costruirne uno e&amp;rsquo; mostruosamente costoso, all&amp;rsquo;inizio. Solo la fonderia e&amp;rsquo; un investimento da ~5 MILIARDI di Euro. C&amp;rsquo;e&amp;rsquo; poi la fase di bench test , che e&amp;rsquo; orribilmente costosa. Il processore viene descritto in un linguaggio di programmazione &amp;ldquo;descrittivo&amp;rdquo;, come Verilog, e poi viene &amp;ldquo;testato&amp;rdquo; praticamente in tutte le condizioni di uso.&lt;/p&gt;
+
+&lt;p&gt;Un tempo per fare questo si usavano &amp;ldquo;normali&amp;rdquo; simulatori, poi si vide che in alcune situazioni alcuni multiplexer ponevano dei problemi non polinomiali e si usarono tecniche diverse, sino alle reti neurali, e gli ultimi ritrovati fanno addirittura una verifica &lt;strong&gt;formale&lt;/strong&gt; del processore (descritto come programma) , usando le &lt;a href=&#34;http://en.wikipedia.org/wiki/Hoare_logic&#34;&gt;logiche di Hoare&lt;/a&gt; L&amp;rsquo;uso delle logiche di Hoare rende davvero &lt;strong&gt;formale&lt;/strong&gt;, ovvero matematico, il processo di test.&lt;/p&gt;
+
+&lt;p&gt;Quando si esce da questo genere di prova, il processore semplicemente NON-HA-BACHI.&lt;/p&gt;
+
+&lt;p&gt;Di quale complessita&amp;rsquo; stiamo parlando? Se il processore i7 ha ~800 milioni di transistor, e supponiamo che si descriva il singolo transistor in Verilog, il metodo sarebbe valido per testare 800 milioni di righe, almeno.&lt;/p&gt;
+
+&lt;p&gt;In realta&amp;rsquo; poi ci sono tutte le tecniche di sintesi, ma un processore come i7 mostra comunque piu&amp;rsquo; complessita&amp;rsquo; di un kernel di Linux, per dire.&lt;/p&gt;
+
+&lt;p&gt;Eppure, sebbene a costi ripugnanti per l&amp;rsquo;uomo comune (ci potete comprare un paesello di qualche decina di migliaia di abitanti, sino all&amp;rsquo;ultimo chiodo) , fare questa operazione e&amp;rsquo; possibile.&lt;/p&gt;
+
+&lt;p&gt;Sia chiaro, non e&amp;rsquo; fantascienza:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://cps-vo.org/node/1371&#34;&gt;Intel ha sostituito i test con una verifica formale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cps-vo.org/node/1371&#34;&gt;Succede gia&amp;rsquo; dal P4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/DVClub/mainline-functional-verification-of-ibms-power7-processor-core&#34;&gt;Anche IBM lo fa sui PPC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Morale: i chip vengono verificati &lt;strong&gt;formalmente&lt;/strong&gt;, ovvero con un processo equivalente in bonta&amp;rsquo; ad una &lt;strong&gt;dimostrazione matematica&lt;/strong&gt;.  In un chip che implementi SSL, &lt;a href=&#34;http://link.springer.com/chapter/10.1007%2F0-306-48709-8_13&#34;&gt;per fare un esempio&lt;/a&gt;, un baco come Heartbleed non poteva passare questo genere di verifica.&lt;/p&gt;
+
+&lt;p&gt;Da qui potete capire che questi ingegneri, nell&amp;rsquo; Automotive , quando comprano un prodotto che fa la tal cosa, hanno ottime ragioni per fidarsi. Se per esempio comprano un &lt;a href=&#34;http://www.asix.com.tw/products.php?op=pItemdetail&amp;amp;PItemID=90;72;103&#34;&gt;Asic con dentro il TCP/IP, il DNS e FTP&lt;/a&gt;, sanno che e&amp;rsquo; stato testato in questo modo, per cui se ne possono fidare ciecamente, o quasi.&lt;/p&gt;
+
+&lt;p&gt;In pratica, essi vivono in una specie di mondo fatato nel quale il &amp;ldquo;software&amp;rdquo;, o meglio cio&amp;rsquo; che noi chiamiamo &amp;ldquo;software&amp;rdquo;, semplicemente funziona. Sempre. Per definizione. E fa quello che si dice che fa, ovvero sino all&amp;rsquo;ultimo bit. Per questo nella vostra auto non ci sono DUE centraline, ma UNA. Trovatemi una sola applicazione mission-critical che non abbia ridondanza, nel mondo IT. Beh, per loro e&amp;rsquo; normale. Perche&amp;rsquo; dovrebbe rompersi?&lt;/p&gt;
+
+&lt;p&gt;Adesso immaginate questi signori, che vengono dal pianeta &amp;ldquo;l&amp;rsquo;algoritmo funziona&amp;rdquo; ed entrano nel mondo IT. Cercando dei software affidabili per fare l&amp;rsquo; OS automotive.&lt;/p&gt;
+
+&lt;p&gt;E immaginate che , corroborati da anni di lavoro su SoC e Asic che &lt;em&gt;semplicemente funzionano&lt;/em&gt; si trovano con gente che gli dice:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Che bisogna ridondare perche&amp;rsquo; il guasto capita sempre.&lt;/li&gt;
+&lt;li&gt;Che comunque il baco e&amp;rsquo; inevitabile, e in 15 anni se ne scopriranno un sacco, qualsiasi software comprino.&lt;/li&gt;
+&lt;li&gt;Che devono ragionare di cambiare il software per fare delle patch ogni &lt;sup&gt;6&lt;/sup&gt;&amp;frasl;&lt;sub&gt;12&lt;/sub&gt; mesi, come ogni software di questo mondo.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ovviamente credono di essere finiti in qualche incubo.&lt;/p&gt;
+
+&lt;p&gt;E&amp;rsquo; come se Bosch dicesse loro che l&amp;rsquo;auto deve tornare al concessionario ogni 6 mesi per le patch. Oppure che dopo l&amp;rsquo;ultimo upgrade - obbligatorio - la centralina e&amp;rsquo; troppo lenta e devono cambiare modello altrimenti non va abbastanza in fretta per l&amp;rsquo;auto.&lt;/p&gt;
+
+&lt;p&gt;Delirio.&lt;/p&gt;
+
+&lt;p&gt;La verita&amp;rsquo; e&amp;rsquo; che esistono sistemi embedded capaci di fare questo, come quelli che vanno sui satelliti artificiali, che non sono proprio proprio semplici da manutenere. Ma a parte il fatto che l&amp;rsquo; OS si aggiorna a distanza anche sui satelliti, &lt;a href=&#34;http://polysat.calpoly.edu/download/Fitzsimmons_softwareupdates.pdf&#34;&gt;almeno sui piu&amp;rsquo; recenti&lt;/a&gt;, sinora nessuna casa ha ancora corso il rischio di fornire una scatolina che:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Venga installata su ~10 milioni di auto /anno&lt;/li&gt;
+&lt;li&gt;Lavori per 15 anni&lt;/li&gt;
+&lt;li&gt;Abbia una percentuale di guasti/fermi inferiore a E, con &amp;ldquo;E&amp;rdquo; nello stesso ordine di un motore d&amp;rsquo;auto.&lt;/li&gt;
+&lt;li&gt;Nei primi anni di garanzia questa percentuale scenda a un numero microscopico, a patto di eseguire un diagnostico.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sono state interpellate case di software MOLTO, MOLTO, MOLTO famose per il loro &amp;ldquo;software affidabile&amp;rdquo;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ma si e&amp;rsquo; scoperto che il software e&amp;rsquo; cosi&amp;rsquo; affidabile perche&amp;rsquo; viene venduto con sistemisti al seguito (mainframe), perche&amp;rsquo; viene ridondato abbestia (cluster) , e perche&amp;rsquo; c&amp;rsquo;e&amp;rsquo; di continuo una presenza di monitoring e call duty (controlli industriali vari).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Niente che si possa implementare su un&amp;rsquo;auto.&lt;/p&gt;
+
+&lt;p&gt;Cosi&amp;rsquo; le case vogliono trasformare le auto in una specie di cyborg con le ruote, ma hanno un problema serio: arriva al pettine il nodo del millennio, ovvero &lt;strong&gt;che non esiste nessuna legge di Moore per il software&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;La legge di Moore, nel mondo dell&amp;rsquo;hardware, ha sempre mantenuto le proprie promesse. Non solo per i processori. Paragonate un CRT del 1995 con un retina del 2015. Paragonate la potenza di una CPU, di una scheda di rete, di una scheda grafica, di un hard disk, di un controller per i dischi, QUALSIASI MALEDETTA COSA, e scoprirete che il mondo dell&amp;rsquo;hardware ha prodotto roba SEMPRE MIGLIORE nel tempo. Il mondo del silicio, cioe&amp;rsquo;, si e&amp;rsquo; evoluto BENE  e TANTO&lt;/p&gt;
+
+&lt;p&gt;Il mondo del software, invece? Evoluto? Windows aveva una barra &amp;ldquo;start&amp;rdquo; in basso nel 1995, e ne ha una oggi. Apple aveva una barra in alto e un cestino nel desktop nel 1995, e ne ha uno ora. Il sistema operativo piu&amp;rsquo; usato nell&amp;rsquo;embedded si ispira a Unix, una roba che ha 44 anni.&lt;/p&gt;
+
+&lt;p&gt;E&amp;rsquo; piu&amp;rsquo; affidabile? Alzi la mano chi ha mai visto MS DOS in crash. Poi chi ha visto Windows 8 in crash. Uhm. La seconda che ho detto.&lt;/p&gt;
+
+&lt;p&gt;E&amp;rsquo; piu&amp;rsquo; sicuro? Uhm. Non direi.&lt;/p&gt;
+
+&lt;p&gt;E&amp;rsquo; piu&amp;rsquo; leggero? Fate girare un sistema operativo moderno su una macchina del 1995 e mi saprete dire.&lt;/p&gt;
+
+&lt;p&gt;Ma allora in cosa e&amp;rsquo; migliorato il software? In niente, o quasi.&lt;/p&gt;
+
+&lt;p&gt;Il software fa schifo.&lt;/p&gt;
+
+&lt;p&gt;Ed e&amp;rsquo; questo che salta fuori oggi, mentre si inizia a fare SUL SERIO con gli IoT, con la &amp;ldquo;internet delle cose&amp;rdquo;. Se vogliamo mettervi un computer nella lavatrice, ed essere sicuri che non vi mandera&amp;rsquo; a fuoco la casa, dobbiamo metterne due? Ed eseguire manutenzione a tutte le lavatrici vendute ogni &lt;sup&gt;6&lt;/sup&gt;&amp;frasl;&lt;sub&gt;8&lt;/sub&gt; mesi per un upgrade? Sul serio? Scherziamo?&lt;/p&gt;
+
+&lt;p&gt;Il mondo IoT deve convincere l&amp;rsquo;hardware a fare le cose che fanno i nostri computer. Allora io sono un consulente e vado da una grande azienda a parlare di domotica. Mettiamo interruttori IoT ovunque, lampadine IoT ovunque, facciamole comunicare, e con un bel server controlliamo le luci ottimizzando i consumi, prenotando l&amp;rsquo;accensione delle sale riunione solo quando c&amp;rsquo;e&amp;rsquo; la riunione eccetera.&lt;/p&gt;
+
+&lt;p&gt;Fico?&lt;/p&gt;
+
+&lt;p&gt;Fico. Ma poi devi spiegare che non e&amp;rsquo; UN server. Sono due, ridondati. Serve a garantire continuita&amp;rsquo;. E poi hanno bisogno di alarming. E poi hanno bisogno di sistemisti di supporto.
+Sapete cosa vi diranno i manager?&lt;/p&gt;
+
+&lt;p&gt;Che installano dei pannelli solari per risparmiare energia, e la vostra domotica ve la ficcate nel culo: un interruttore manuale non costa quasi nulla di contratti di assistenza, non si guasta quasi mai, funziona di sicuro, non ha bisogno di replicazione, di software o di sistemisti, allarmi e replicazione.&lt;/p&gt;
+
+&lt;p&gt;Certo, se poteste andare con una scatolina di controllo che la piazzate e ve la dimenticate sarebbe diverso. Ma del resto, se esistesse il sistema operativo che lo piazzate e ve lo dimenticate, non avremmo quel che abbiamo oggi. Se esistesse la suite office che la installiamo e ce ne dimentichiamo, non saremmo ad usare quel che usiamo. E se esistesse una scatolina che fa tutto questo in hardware, la installiamo e la dimentichiamo, oggi l&amp;rsquo;informatica sarebbe molto diversa.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Stiamo entrando nel mondo dell&amp;rsquo; IoT e non abbiamo i software adatti. IoT inplica almeno il pareggio della qualita&amp;rsquo; tra software ed hardware, ma se il silicio e&amp;rsquo; praticamente perfetto, il software fa cagare.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sono anni che nel mondo dell&amp;rsquo;auto si cerca di portare il computer nell&amp;rsquo;auto. E sono anni che gli ingegneri scuotono la testa dicendo &amp;ldquo;se solo ci fossero i software che ci servono&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Ma adesso non possono piu&amp;rsquo; tirarsi indietro. L&amp;rsquo; e-call , di cui avevo parlato in passato, &lt;a href=&#34;http://ec.europa.eu/growth/tools-databases/newsroom/cf/itemdetail.cfm?item_id=8243&amp;amp;lang=en&amp;amp;tpa_id=0&amp;amp;title=European-Parliament-approves-eCall&#34;&gt;e&amp;rsquo; stato approvato&lt;/a&gt; e se per questo basta un &amp;ldquo;volgare&amp;rdquo; chip GSM da due lire, questo momento rappresenta uno spartiacque. Lo IoT e&amp;rsquo; ormai LEGGE. E&amp;rsquo; nella mente di tutti.&lt;/p&gt;
+
+&lt;p&gt;Tutti &lt;strong&gt;vogliono&lt;/strong&gt; le auto intelligenti. E siccome si sa che il primo arrivato vincera&amp;rsquo;, tutti ci stanno provando come dei forsennati.&lt;/p&gt;
+
+&lt;p&gt;E stanno fallendo.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;h1&gt; E il problema non e&amp;rsquo; &lt;u&gt;MAI&lt;/u&gt; l&amp;rsquo; hardware. MAI il silicio&lt;/h1&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;e&amp;rsquo; una certa disperazione, e come consulenti siamo chiamati, ovviamente, a portare lumi. E sapete cosa stiamo consigliando?&lt;/p&gt;
+
+&lt;p&gt;Di usare gli SoC.&lt;/p&gt;
+
+&lt;p&gt;Sulle schede grafiche attuali c&amp;rsquo;e&amp;rsquo; abbastanza codice da costruire finestre per un&amp;rsquo;interfaccia grafica. Hanno gia&amp;rsquo; le primitive per ruotare solidi, disegnare pulsanti e tutto. Sulle schede RAID ci sono SoC e ASIC che hanno tutte le primitive per  gestire un filesystem. Le schede di rete montano SoC per TCP/IP, ethernet, GSM, LTE. HTTP &lt;a href=&#34;https://www.altera.com/products/processors/support.html&#34;&gt;e&amp;rsquo; negli ASIC mica da mo&lt;/a&gt; . Ma che cavolo se ne fanno di un &amp;ldquo;sistema operativo? e del &lt;a href=&#34;https://www.altera.com/support/support-resources/design-examples/intellectual-property/embedded/nios-ii/exm-micro_tutorial.html&#34;&gt;&amp;ldquo;middleware?&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;C&amp;rsquo;e&amp;rsquo; gia&amp;rsquo; tutto, su silicio. E le proposte per l&amp;rsquo; IoT &lt;a href=&#34;http://www.newelectronics.co.uk/electronics-news/dsp-core-set-to-meet-iot-wearables-processing-requirements/76091/&#34;&gt;cominciano a fioccare&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Volete Java su silicio? &lt;a href=&#34;http://www.eetimes.com/document.asp?doc_id=1184723&#34;&gt;Eccovelo&lt;/a&gt;
+Volete sicurezza? ARM Trustzone. Tutto silicio e niente spine.&lt;/p&gt;
+
+&lt;p&gt;Sia chiaro: non sono io l&amp;rsquo; unico a dire che le cose andranno a cambiare: &lt;a href=&#34;http://www.eetimes.com/document.asp?doc_id=1325949&#34;&gt;se ne sono gia&amp;rsquo; accorti&lt;/a&gt;. E stanno gia&amp;rsquo; nascendo soluzioni che sono, su silicio, delle vere e proprie macchine all purposes, comprese delle funzionalita&amp;rsquo; che di solito assegnamo ad un sistema operativo, e molte di quelle che di solito &lt;a href=&#34;http://www.eetimes.com/document.asp?doc_id=1325799&#34;&gt;ci aspettiamo da un applicativo server&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Il significato?&lt;/p&gt;
+
+&lt;p&gt;Il significato e&amp;rsquo; semplice: o chi scrive software si da una mossa, oppure tutti, e non solo le case automobilistiche, si rivolgeranno al mondo del silicio. Le case di auto ormai a cercare una software house ci hanno rinunciato. Tutte. Faranno tutto su silicio.&lt;/p&gt;
+
+&lt;p&gt;E se questo succede, e&amp;rsquo; assolutamente possibile che tra 10 anni il mondo sara&amp;rsquo; invaso dalla &amp;ldquo;internet of things&amp;rdquo;, ma questo NON significhi AFFATTO che gli sviluppatori di software ed i programmatori lavoreranno di piu&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;Potrebbe significare che NON lavoreranno AFFATTO.&lt;/p&gt;
+
+&lt;p&gt;E gia&amp;rsquo; oggi, qualche segno della tendenza a portare su silicio si nota: a chi sa fare verifica di SoC, Asic &amp;amp; co, per trovare lavoro &lt;a href=&#34;https://www.google.de/search?client=opera&amp;amp;q=open+position+Soc+Asic+verification&amp;amp;sourceid=opera&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&#34;&gt;basta cercare con google&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ecco il vostro asteroide.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/zguCFjHyVeM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>La Stampa a Cielo Aperto</title>
@@ -1938,167 +2093,6 @@ Sintassi chiara. Compilazione semplice. Eseguibili senza dipendenze.&lt;/p&gt;
 &lt;p&gt;(3) Il &lt;em&gt;quindici&lt;/em&gt; ci vuole. E&amp;rsquo; un numero, e i numeri si calcolano. Se voi andate in un posto e vi dicono che per camminare bene vi serve il KVT &amp;ldquo;almeno da quindici&amp;rdquo; vi stanno pure dando del valore aggiunto. E&amp;rsquo; consulenza, gente. Come facevate voi a sapere che vi serviva almeno da quindici, e non da quattordici?&lt;/p&gt;
 
 &lt;p&gt;(4)Michalsky poi e&amp;rsquo; alla fine un tizio simpaticissimo che sa di &lt;a href=&#34;http://www.radsport-michalsky.de/team.php&#34;&gt;working class tedesca e azienda di famiglia&lt;/a&gt; Ma se non lo avessi conosciuto all&amp;rsquo;asta dell&amp;rsquo;usato, vedendo il sito avrei pensato ad un posto per esaltati che volano in bici e si fanno pagare per passeggiare in campagna. Immagino che si sia rivolto a dei pubblicitari, per il suo sito.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>I nuovi rossobruni?</title>
-      <link>http://www.wolfstep.cc/post/anvedistifranchi/</link>
-      <pubDate>Wed, 01 Apr 2015 21:32:48 +0200</pubDate>
-      
-      <guid>http://www.wolfstep.cc/post/anvedistifranchi/</guid>
-      <description>&lt;p&gt;Non simpatizzando per una particolare area politica, e provando antipatia per tutte le formazioni esistenti - si salva giusto qualche elemento del partito pirata tedesco - ho smesso di occuparmi di vicende ideologiche. Le ideologie sono qualcosa che, dopo il 2000, sarebbe meglio gettare nel cassetto.&lt;/p&gt;
-
-&lt;p&gt;Per questa ragione ultimamente non sto piu&amp;rsquo; parlando di ideologie, specialmente quelle del millennio scorso: non ne seguo l&amp;rsquo;evoluzione da un pochino. Cosi&amp;rsquo; ieri , ad un breve seminario sul futuro di SS7 (1) mi sono trovato un poco spiazzato nel parlare con alcuni tecnici francesi , che discutevano - indovinate un pochino - della Le Pen.&lt;/p&gt;
-
-&lt;p&gt;Mi ha stupito perche&amp;rsquo; si tratta di specialisti tutto sommato di buona famiglia, e con un livello di istruzione abbastanza alto, per cui non mi aspettavo alcune regressioni.&lt;/p&gt;
-
-&lt;p&gt;Era tempo che non seguivo piu&amp;rsquo; le ideologie rossobrune, quindi col senno di poi, dopo la discussione, riesco a capire come esse si stiano evolvendo allo scopo di aggirare gli ostacoli legislativi. Insomma, ho parlato con una specie di &amp;ldquo;mutante&amp;rdquo; del fascismo/nazismo, e ho potuto osservare una specie di evoluzione della dialettica antisemita, evoluzione che ha l&amp;rsquo;ovvio scopo di aggirare gli ostacoli giuridici.&lt;/p&gt;
-
-&lt;p&gt;Insomma, dallo spettacolo che ho osservato, sebbene il partito della LePen non sia pubblicamente fascista, ho avuto la sensazione che abbia  evoluto semplicemente un tipo diverso di fascismo, il quale consente quella che nell&amp;rsquo; IT verrebbe  chiamata una &amp;ldquo;migrazione poco costosa&amp;rdquo; dall&amp;rsquo;estrema sinistra. Una specie di dialettica furba che consente di essere fascisti senza sembrarlo.&lt;/p&gt;
-
-&lt;p&gt;Questa nuova dialettica ha sviluppato &amp;ldquo;armi&amp;rdquo; piuttosto sofisticate, segno che qualcuno ci si e&amp;rsquo; messo d&amp;rsquo;impegno, e ha partorito alcuni stratagemmi piuttosto difficili da falsificare in una discussione pubblica.&lt;/p&gt;
-
-&lt;p&gt;Per esempio, la storia dei campi di sterminio nazisti.&lt;/p&gt;
-
-&lt;p&gt;Se considerate che in Germania negare che la Shoah sia avvenuta e&amp;rsquo; vietato dalla costituzione , e che in Francia esistono - che io sappia - sanzioni pesanti a riguardo, mi aspettavo che non la negassero, ed in effetti cosi&amp;rsquo; e&amp;rsquo; stato. Ma hanno usato una strategia sorprendentemente furba.&lt;/p&gt;
-
-&lt;p&gt;Hanno pero&amp;rsquo; aggiunto un piccolo cappello. Questi nuovi fascisti, a quanto pare, non negano la cosa. Ci mettono sopra una domanda.&lt;/p&gt;
-
-&lt;p&gt;E&amp;rsquo; chiaro che si tratti di un espediente per evitare problemi con la legge. Nel senso che negando che sia avvenuto lo sterminio produce sanzioni e denunce, cosi&amp;rsquo; non lo negano. Anche istigare all&amp;rsquo;odio produce sanzioni e denunce, cosi&amp;rsquo; non fanno affermazioni, ma domande.&lt;/p&gt;
-
-&lt;p&gt;In questo senso e&amp;rsquo; chiaro che hanno evoluto le loro tattiche dialettiche per vincere il dibattito pubblico in &amp;ldquo;main street&amp;rdquo;, cioe&amp;rsquo; tra la gente. Non mi aspettavo che fossero diventati cosi&amp;rsquo; sofisticati.&lt;/p&gt;
-
-&lt;p&gt;La domanda che fanno e&amp;rsquo; semplice, ma tatticamente sofisticata: &lt;em&gt;cosa sarebbe successo in Europa (Francia, o Germania, o Italia) se gli ebrei fossero diventati la maggioranza, o abbastanza forti da avere un potere militare? Per la precisione: &amp;ldquo;saremmo finiti tutti come i palestinesi di Gaza&amp;rdquo;?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Come vedete, sono due domande che non sostengono alcuna tesi. In quanto tali, non sono davvero sanzionabili dalla legge. Questa prima evoluzione, ovvero la trasformazione di una ideologia assertiva in una serie di domande, sembra essere un chiaro  modo di reagire alle leggi che reprimono questo tipo di propaganda.&lt;/p&gt;
-
-&lt;p&gt;In secondo punto, loro non negano lo sterminio: dicono &amp;ldquo;si, e&amp;rsquo; avvenuto. C&amp;rsquo;e&amp;rsquo; pero&amp;rsquo; una domanda senza risposta&amp;rdquo;. E puf, la sparano.&lt;/p&gt;
-
-&lt;p&gt;Adesso, occorre analizzare la strategia. Perche&amp;rsquo; apparentemente sono domande piuttosto propagandistiche, e pure rozze, ma nascondono diverse insidie dialettiche.&lt;/p&gt;
-
-&lt;p&gt;La prima, &amp;ldquo;saremmo finiti come i palestinesi&amp;rdquo;, consiste nell&amp;rsquo;impedire a chi viene dall&amp;rsquo;estrema sinistra di replicare. Questo puo&amp;rsquo; essere un esempio di come si sia consolidato il mondo che io chiamo &amp;ldquo;delle camicie rossobrune&amp;rdquo;: in definitiva, e&amp;rsquo; possibile una &amp;ldquo;migrazione poco costosa&amp;rdquo;, visto che uno dei temi cari all&amp;rsquo;estrema sinistra si conserva.&lt;/p&gt;
-
-&lt;p&gt;A questo punto, occorre analizzare i punti di forza di questa nuova evoluzione dell&amp;rsquo;antisemitismo.&lt;/p&gt;
-
-&lt;p&gt;Esso pone un&amp;rsquo;ipotesi, che ovviamente non puo&amp;rsquo; essere verificata sperimentalmente. Che sarebbe successo? Non si sa. Tuo cugino puo&amp;rsquo; dire che saremmo finiti tutti come i palestinesi, mio cugino dice che saremmo finiti tutti a farci le canne al parco.&lt;/p&gt;
-
-&lt;p&gt;Trattandosi di una ipotesi, cioe&amp;rsquo;, chi si voglia muovere a contestarla ha gli stessi strumenti di chi la sostiene. Cioe&amp;rsquo;, la domanda &amp;ldquo;saremmo initi tutti come i palestinesi di Gaza?&amp;rdquo; contiene gia&amp;rsquo; l&amp;rsquo;ipotesi. Si puo&amp;rsquo; dire &amp;ldquo;si&amp;rdquo; o &amp;ldquo;no&amp;rdquo;, ma ovviamente occorre argomentare.&lt;/p&gt;
-
-&lt;p&gt;Ed e&amp;rsquo; l&amp;rsquo;argomentare che viene difficile, se non impossibile: come strategia, essa e&amp;rsquo; costruita per NON proporre qualcosa di falsificabile. E falsificare l&amp;rsquo;infalsificabile e&amp;rsquo; davvero difficile.&lt;/p&gt;
-
-&lt;p&gt;Il guaio e&amp;rsquo; che, per come e&amp;rsquo; posta la domanda, l&amp;rsquo;unico precedente e&amp;rsquo;&amp;hellip; quello menzionato nella domanda. L&amp;rsquo;insidia contenuta in questa strategia consiste nel porre una domanda che NON ha risposta, ma contemporaneamente rendere plausibile UNA SOLA delle risposte, gia&amp;rsquo; nella domanda.&lt;/p&gt;
-
-&lt;p&gt;Il punto e&amp;rsquo; che la strategia va a segno semplicemente facendo la domanda. E&amp;rsquo; la domanda in se&amp;rsquo; ad essere propaganda.&lt;/p&gt;
-
-&lt;p&gt;Le fallacie logiche sono diverse, e sono piuttosto evidenti: si basano sulla fiducia aprioristica sulla storia intesa come prassi.&lt;/p&gt;
-
-&lt;p&gt;Ma sul piano dialettico, ovvero sul piano della discussione, spiegare tali fallacie non e&amp;rsquo; assolutamente semplice. Anzi, e&amp;rsquo; quasi del tutto impossibile.&lt;/p&gt;
-
-&lt;p&gt;La domanda, infatti, e&amp;rsquo; costruita per porre un problema di tipo pragmatico: &amp;ldquo;cosa sarebbe REALMENTE avvenuto nell&amp;rsquo;ipotesi in cui si fosse riprodotta la stessa REALE situazione demografica di un posto REALE?&amp;rdquo; Tutto e&amp;rsquo; incentrato nel dire che cosa sarebbe successo &lt;strong&gt;materialmente&lt;/strong&gt;. Che cosa sarebbe avvenuto &lt;strong&gt;materialmente&lt;/strong&gt;, in Europa, o in un qualsiasi paese europeo, se gli ebrei fossero cresciuti di numero sino a diventare dominanti?&lt;/p&gt;
-
-&lt;p&gt;Essendo una domanda posta in termini di &amp;ldquo;materialmente&amp;rdquo;, e&amp;rsquo; difficile uscirsene contestando la sua logica o le sue assunzioni di base. Certo, e&amp;rsquo; scorretto assumere che esista una prassi storica per la quale le stesse condizioni iniziali producono le medesime condizioni finali, ma si tratta di una considerazione puramente epistemologica. La domanda, la richiesta di prevedere il risultato di una data demografia, non viene cancellata.&lt;/p&gt;
-
-&lt;p&gt;Se pensate che un errore logico basti a inficiare completamente la bonta&amp;rsquo; di un ragionamento, chiaramente rifiutate la domanda come errata. Ma in un dibattito sulla strada, con l&amp;rsquo;uomo comune, non ve ne potete uscire con una critica formale sul metodo.&lt;/p&gt;
-
-&lt;p&gt;Vi fanno una domanda, e dovete rispondere&amp;rdquo; &amp;ldquo;se gli ebrei si fossero moltiplicati sino a diventare dominanti, saremmo finiti tutti come a Gaza?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;I termini della domanda sono cosi&amp;rsquo; semplici che andare a discutere la fondatezza logica non ha successo. Vi diranno che non avete risposto alla domanda, ma solo parlato della domanda. Il che e&amp;rsquo; sufficiente a renderla sterile SE credete nella forza della logica. Ma l&amp;rsquo;uomo della strada ad una domanda si aspetta una risposta.&lt;/p&gt;
-
-&lt;p&gt;Il guaio e&amp;rsquo; che , nel costruire la domanda, abbiamo citato l&amp;rsquo;unico precedente noto. Per confutare un precedente, e negare che sia la prassi, servirebbe un altro precedente, &lt;strong&gt;altrettanto eclatante, e sulla stessa scala&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;La forza di questa nuova strategia, cioe&amp;rsquo;, e&amp;rsquo; di porre la domanda in modo tale che l&amp;rsquo;unica risposta possibile non sia quella nota - visto che non esistono prassi storiche - ma di chiedere per forza di cose una risposta &lt;strong&gt;plausibile&lt;/strong&gt;. Quando una cosa non e&amp;rsquo; dimostrata vera ma viene considerata vera, cioe&amp;rsquo;, si parla di risposta &lt;strong&gt;plausibile&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Il guaio della &lt;strong&gt;plausibilita&amp;rsquo;&lt;/strong&gt; e&amp;rsquo; che si fonda sugli esempi noti. E di esempi noti ne abbiamo solo uno. Che sembra suggerire una risposta, che ovviamente e&amp;rsquo; quella che i nuovi fascisti vogliono.&lt;/p&gt;
-
-&lt;p&gt;La cosa interessante di questi militanti del partito della Le Pen e&amp;rsquo; che sembrano addestrati a NON rispondere a questa domanda. Mi spiego: quando e&amp;rsquo; saltata fuori questa cosa, i colleghi tedeschi hanno fatto presente che discorsi simili possano facilmente uscire dalla legalita&amp;rsquo;, quindi era meglio fermarsi.&lt;/p&gt;
-
-&lt;p&gt;Ma loro si erano gia&amp;rsquo; fermati prima, dal momento che &lt;strong&gt;da subito&lt;/strong&gt; hanno detto che rispondere alla domanda fosse &lt;strong&gt;up to you&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;In pratica, questa nuova strategia consiste nel dire:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;L&amp;rsquo;olocausto fu una cosa orribile. Resta solo una domanda aperta: se gli ebrei si fossero moltiplicati di numero e le proporzioni di forza fossero state a loro favore, saremmo finiti tutti come i palestinesi di Gaza?&lt;/li&gt;
-&lt;li&gt;Ehm&amp;hellip;. questo genere di discorsi puo&amp;rsquo; essere illegale, qui.&lt;/li&gt;
-&lt;li&gt;Ma io non sto rispondendo. Sto solo ponendo la domanda. Rispondere spetta a te.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In Italia questo si chiama &amp;ldquo;lanciare la pietra e nascondere il pugno&amp;rdquo;, quindi magari in Italia potete dire &amp;ldquo;questo e&amp;rsquo; lanciare la pietra e nascondere il pugno&amp;rdquo;. Ma se provate a farlo in inglese, o in tedesco, la risposta sara&amp;rsquo; &amp;ldquo;why not?&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Si tratta quindi di una specie di salto evolutivo:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Avendo cura di non violare leggi negando cose.&lt;/li&gt;
-&lt;li&gt;Avendo cura di non fare asserzioni, ma domande.&lt;/li&gt;
-&lt;li&gt;Avendo cura di NON rispondere alle domande.&lt;/li&gt;
-&lt;li&gt;Si insinua nella mente delle persone l&amp;rsquo;idea che tutto sommato questo orrore abbia salvato la vita a tutti.&lt;/li&gt;
-&lt;li&gt;Come se non bastasse, si fa in modo che tale idea non sembri venuta da qualcun altro.(2)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;E&amp;rsquo; molto tempo che non ho a che fare con (neo-)fascisti, quindi avevo perso di vista le loro strategie dialettiche. Questa strategia invece mi ricorda molto quelle dei gesuiti cattolici e di alcuni predicatori americani, che parlano per domande.  Ed e&amp;rsquo; molto sofisticata sul piano logico.&lt;/p&gt;
-
-&lt;p&gt;Se facciamo un confronto col vecchio ciarpame fascista, che usa ancora dialettiche obsolete e facili da contrastare, questo salto di qualita&amp;rsquo; consiste nel porre all&amp;rsquo;uomo comune una domanda che puo&amp;rsquo; essere contestata solo usando mezzi logici non molto diffusi tra l&amp;rsquo;uomo comune.&lt;/p&gt;
-
-&lt;p&gt;Potremmo dire che il mito della terra promessa non parla di Alta Savoia, ma di Galilea, ma ci viene risposto che le interpretazioni dei testi sacri spesso sono cosi&amp;rsquo; elastiche da non badare a poche migliaia di Km di distanza.&lt;/p&gt;
-
-&lt;p&gt;Potremmo rispondere che se e&amp;rsquo; per questo non esistono prove di una volonta&amp;rsquo; simile da parte degli ebrei europei, ma ci verrebbe risposto che ovviamente, trattandosi di una minoranza, di certo non esibirebbero tale volonta&amp;rsquo; prima di avere la forza demografica.&lt;/p&gt;
-
-&lt;p&gt;Ovviamente, non esiste una risposta pragmatica e risolutiva ad una domanda che chiede una risposta &lt;strong&gt;plausibile&lt;/strong&gt; suggerendo contemporaneamente l&amp;rsquo;unico precedente noto della demografia proposta.&lt;/p&gt;
-
-&lt;p&gt;Qualsiasi cosa rispondiate a quella domanda, cioe&amp;rsquo;, non ne diminuisce la forza propagandistica.&lt;/p&gt;
-
-&lt;p&gt;Ma non e&amp;rsquo; nemmeno il problema, dal momento che il propagandista (la propaganda e&amp;rsquo; l&amp;rsquo;uso della liberta&amp;rsquo; di parola contro la liberta&amp;rsquo; di pensiero) non vuole nemmeno che si risponda. Semina la domanda nella vostra mente, e poi la lascia a svolgere il proprio lavoro.&lt;/p&gt;
-
-&lt;p&gt;Non ho avuto tempo di discutere oltre alla pausa pranzo, per cui il resto della giornata di ieri e&amp;rsquo; trascorsa a parlare di &lt;a href=&#34;http://en.wikipedia.org/wiki/Signalling_System_No._7&#34;&gt;SS7&lt;/a&gt; , ma la mi percezione e&amp;rsquo; che quel signore amante della Le Pen fosse stato &lt;strong&gt;preparato&lt;/strong&gt;, nei termini in cui si indica un addestramento preciso, tipo quello che fanno i Testimoni di Geova prima di andare in giro per le case.&lt;/p&gt;
-
-&lt;p&gt;Non ho intenzione di diventare un sommelier di merda per cui non devo assaggiare tutte le varianti, quindi non andro&amp;rsquo; a vedere tutte le cose che dicono quelli del FN francese. La politica mi interessa davvero poco, oggi come oggi (credo che questo si rifletta un pochino nei post del blog). I risultati elettorali francesi, del resto,  bastano ed avanzano.&lt;/p&gt;
-
-&lt;p&gt;Non so nemmeno se questo sia un&amp;rsquo;argomento nuovo per i fascisti o meno: io in Italia non l&amp;rsquo;avevo mai sentito, per dire. Ma non e&amp;rsquo; detto che io abbia sentito tutto. In ogni caso, detto cosi&amp;rsquo; sembra un espediente dialettico sofisticato.&lt;/p&gt;
-
-&lt;p&gt;Tuttavia, se fate un confronto coi leghisti di Salvini, o coi neofascisti di Forza Nuova, potete notare una cosa. Che Salvini ed i neofascisti dicono cose che - almeno in teoria - sono spesso sanzionabili dalla legge.(con la sola differenza della legge contro l&amp;rsquo;omofobia, mai approvata in Italia).&lt;/p&gt;
-
-&lt;p&gt;Se invece osservate la domanda fatta cosi:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;se gli ebrei fossero diventati , moltiplicandosi, una percentuale dominante della popolazione europea, noi europei saremmo finiti come i palestinesi di Gaza?&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;potete notare che:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;- &amp;quot;Aggancia&amp;quot; le persone di estrema sinistra.
-- Non e&#39; illegale, essendo una domanda.
-- Non e&#39; illegale, non contenendo risposte.
-- L&#39;unica menzione di precedenti si basa su un fatto reale.
-- Se chi la pone non risponde,  elude ogni responsabilita&#39;.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;insomma, questo pensiero (neo-)fascista oggi ha , in senso dialettico,  &amp;ldquo;armi e munizioni&amp;rdquo; nuove. Insidiose. In un mondo ove la conoscenza della storia deriva piu&amp;rsquo; dai video di Youtube che dalla scuola, essa mira a trasformare in eroi quelli che sono stati senza ombra di dubbio dei criminali.&lt;/p&gt;
-
-&lt;p&gt;Sono semi.&lt;/p&gt;
-
-&lt;p&gt;Semi che possono germogliare. Ovunque l&amp;rsquo;uomo della strada non sia preparato a riconoscere una domanda costruita a tavolino per far comparire nella mente delle persone una precisa risposta.&lt;/p&gt;
-
-&lt;p&gt;Ho scritto un tempo &amp;ldquo;armi e munizioni contro il pensiero mainstream&amp;rdquo; perche&amp;rsquo; nel mondo politico le dialettiche sono come armi. Se funzionano, possono eliminare i nemici con una serie di piccole battaglie che si svolgono nella vita quotidiana, ove chi ha meno argomenti perde. E se perdi tutte le battaglie perdi la guerra.&lt;/p&gt;
-
-&lt;p&gt;Se la mettiamo in questo modo, devo dire che quell&amp;rsquo;arma e&amp;rsquo; piuttosto ben disegnata, e anche molto pericolosa. E nelle mani sbagliate.&lt;/p&gt;
-
-&lt;p&gt;In definitiva, quello che ho visto e&amp;rsquo; che i fasci francesi si stanno evolvendo, stanno migliorando le loro parole. Mentre il resto del mondo non puo&amp;rsquo; migliorare l&amp;rsquo;uomo della strada.&lt;/p&gt;
-
-&lt;p&gt;Anche se, perlomeno, potrebbe provarci.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/18cpLA-U2IY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;(1) Ok, io lo trovo divertente. IMHO SS7 di futuro ne ha pochino.&lt;/p&gt;
-
-&lt;p&gt;(2) Questo e&amp;rsquo; un pericolo. Moltissimi sono disposti ad abbandonare le idee altrui, quasi nessuno ad abbandonare le proprie, o quelle che crede tali.&lt;/p&gt;
 </description>
     </item>
     
