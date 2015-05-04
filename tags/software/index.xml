@@ -165,7 +165,7 @@
 &lt;li&gt;Integrity-178B (il sistema RTOS che gira su  B-2, F-16, F-22 and F-35, Airbus A380)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;per capirci, su questi ultimi sistemi non e&amp;rsquo; consentita l&amp;rsquo;&lt;strong&gt;allocazione dinamica della memoria&lt;/strong&gt;. Se ne conoscete altri che abbiano EAL6+, ditemelo. Non si finisce mai di imparare, in questo settore.&lt;/p&gt;
+&lt;p&gt;per capirci, su questi ultimi sistemi non e&amp;rsquo; consentita l&amp;rsquo;&lt;strong&gt;allocazione dinamica della memoria&lt;/strong&gt;, che e&amp;rsquo; considerata, a questo livello, uno strumento del demonio. Se ne conoscete altri che abbiano EAL6+, ditemelo. Non si finisce mai di imparare, in questo settore.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;EAL7&lt;/strong&gt; qui siamo a dei livelli estremi, ove la sicurezza viene garantita dal fatto che l&amp;rsquo;hardware (di fatto, software implementato sotto forma di ASIC o SoC) abbia certe caratteristiche ed abbia superato delle verifiche formali.&lt;/p&gt;
 
