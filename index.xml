@@ -24,6 +24,13 @@
 &lt;p&gt;Allora, EAL elabora una serie di common practices (che e&amp;rsquo; molto lungo studiare) e a seconda della loro applicazione classifica i sistemi in sette livelli. Tali livelli sono mappabili in altri sistemi di classificazione analoghi: EAL1 corrisponde a ITSEC E0-E1, che corrisponde a BSI ITS Q0-Q1, e a TSEC D-C1.&lt;/p&gt;
 
 &lt;table cellpadding=&#34;2&#34; cellspacing=&#34;2&#34;&gt;
+&lt;colgroup&gt;
+    &lt;col style=&#34;width: 15%&#34; /&gt;
+    &lt;col style=&#34;width: 15%&#34; /&gt;
+    &lt;col style=&#34;width: 15%&#34; /&gt;
+    &lt;col style=&#34;width: 40%&#34; /&gt;
+    &lt;col style=&#34;width: 15%&#34; /&gt;
+  &lt;/colgroup&gt;
 &lt;tbody&gt;&lt;tr&gt;
 &lt;th style=&#34;background-color:#BBFFBB&#34;&gt;CC EAL&lt;/th&gt;
 &lt;th style=&#34;background-color:#BBFFBB&#34;&gt;ITSEC E&lt;/th&gt;
@@ -42,7 +49,7 @@
 &lt;th style=&#34;background-color:#BBBBBB&#34;&gt;EAL2&lt;/th&gt;
 &lt;th style=&#34;background-color:#BBBBBB&#34;&gt;E1&lt;/th&gt;
 &lt;th style=&#34;background-color:#BBBBBB&#34;&gt;Q1&lt;/th&gt;
-&lt;td style=&#34;background-color:#EEEEEE&#34;&gt;Sono noti i test e le tecniche di sviluppo, ma non ci hanno messo altro sforzo.&lt;/td&gt;
+&lt;td style=&#34;background-color:#EEEEEE&#34;&gt;Sono noti i test e le tecniche di sviluppo,ma non ci hanno messo altro sforzo.&lt;/td&gt;
 &lt;th style=&#34;background-color:#DDDDDD&#34;&gt;C1&lt;/th&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
