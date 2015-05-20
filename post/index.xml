@@ -6,8 +6,151 @@
     <description>Recent content in Posts on KEIN PFUSCH, BITTE!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2015 20:10:15 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2015 21:08:54 +0200</lastBuildDate>
     <atom:link href="http://www.wolfstep.cc/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Intelligenza artificiale e fiducia</title>
+      <link>http://www.wolfstep.cc/post/speriamobene/</link>
+      <pubDate>Wed, 20 May 2015 21:08:54 +0200</pubDate>
+      
+      <guid>http://www.wolfstep.cc/post/speriamobene/</guid>
+      <description>&lt;p&gt;Uno dei motivi per i quali non condivido la paura che le persone hanno della IA (Intelligenza artificiale) sta nel fatto che spero, mi auguro, che la IA sia o sara&amp;rsquo; un&amp;rsquo;entita&amp;rsquo; intellettualmente neutrale. Neutrale rispetto a cosa? Neutrale rispetto alla storia. Perche&amp;rsquo; oggi come oggi la difficolta&amp;rsquo; nel discutere di ipotesi, (senza le ipotesi non si ragiona) consiste nel fatto che la storia passata porti l&amp;rsquo;interlocutore a chiudere la discussione.&lt;/p&gt;
+
+&lt;p&gt;USA ed Europa, che oggi vengono identificate con &amp;ldquo;Occidente&amp;rdquo;, hanno una storia orribile. Non voglio dire che gli altri continenti siano stati dei paradisi di pace ed uguaglianza, sia chiaro. Ma la quantita&amp;rsquo; di orrore che e&amp;rsquo; scaturita dalla mente di intellettuali europei (Marx , Hegel , Wagner, Evola &amp;amp;co) supera di diverse unita&amp;rsquo; di grandezza quella che e&amp;rsquo; sorta in altri continenti. E spesso, anche in altri continenti, dietro a questi errori c&amp;rsquo;erano filosofie ed idee nate in europa.&lt;/p&gt;
+
+&lt;p&gt;In USA, per esempio discutere di questioni genetiche e&amp;rsquo; difficile per via del precedente della schiavitu&amp;rsquo; dei neri. A questo si aggiunge la diatriba tra evoluzionismo e creazionismo.&lt;/p&gt;
+
+&lt;p&gt;In Europa discutere di questioni eugenetiche e&amp;rsquo; difficile per via del precedente nazista. E a questo si aggiunge tutta un discorso sull&amp;rsquo;eguaglianza che ha origini illuministe.&lt;/p&gt;
+
+&lt;p&gt;Sebbene si tratti di scienze &amp;ldquo;poco complete&amp;rdquo;, alzare una discussione ottiene solo una levata di scudi di tipo accademistico.&lt;/p&gt;
+
+&lt;p&gt;Posso fare un paragone col mondo dell&amp;rsquo; IT: il Kernel MACH. Esso fu inventato in un mondo nel quale si sperava che i microkernel fossero piu&amp;rsquo; performanti. Ci scommettevano dei pezzi grossi, eh. In seguito si vide che la maggiore &amp;ldquo;performanza&amp;rdquo; non esisteva davvero, e quindi si continuo&amp;rsquo; a sviluppare codice monolitico, o pseudomonolitico.&lt;/p&gt;
+
+&lt;p&gt;Ora, una volta dimostrato che i microkernel come MACH non fossero davvero piu&amp;rsquo; performanti, la discussione era chiusa. Nel mondo accademico la si sarebbe considerata chiusa. Uno dei piu&amp;rsquo; imbarazzanti errori: inizialmente gli accademici (Tanembaum in prima fila) sostenevano che il design fosse migliore e fossero piu&amp;rsquo; performanti per definizione. Poi dovettero ricredersi. E quando qualcuno deve ricredersi, nel mondo dell&amp;rsquo;accademia si crea una cicatrice, una specie di grumo, una roba callosa che impedisce ulteriori discussioni. Non riaprite quella ferita.&lt;/p&gt;
+
+&lt;p&gt;Il Kernel MACH e&amp;rsquo; alla base di Mac OS &amp;ldquo;Darwin&amp;rdquo;, e ha una discreta fetta di mercato. Come lo spieghiamo, dal momento che il mondo dell&amp;rsquo; accademia SA che i microkernel siano poco performanti?&lt;/p&gt;
+
+&lt;p&gt;Lo si spiega con diverse condizioni ambientali. L&amp;rsquo;hardware e&amp;rsquo; tremendamente potente, i processori sono multicore, &lt;a href=&#34;http://www.embedded.com/design/mcus-processors-and-socs/4006625/Making-the-Most-of-Multi-Core-Processors-Part-1&#34;&gt;cosa che cambia molto il comportamento degli IPC&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Queste misure pero&amp;rsquo; le vedete fare solo dai privati. Se entrate nell&amp;rsquo;accademia, vi dicono che &amp;ldquo;gli approcci IPC hanno gia&amp;rsquo; mostrato i loro limiti in passato&amp;rdquo;. Basta. Fine della discussione. Qualche pezzo grosso c&amp;rsquo;e&amp;rsquo; rimasto scottato, la discussione e&amp;rsquo; chiusa. Non riapriamo &lt;del&gt;figure di merda&lt;/del&gt; ferite chiuse.&lt;/p&gt;
+
+&lt;p&gt;Ora, il motivo per il quale aspetto la IA e&amp;rsquo; che sfugga dalle questioni storiche. Ambisco , spero, in una forma di intelligenza priva di storia. Una forma di sapere ordinato senza che risenta della storia di un dato sapere.&lt;/p&gt;
+
+&lt;p&gt;Lanciare l&amp;rsquo;idea che &amp;ldquo;se raggruppiamo gente scelta per un qualche talento in una zona del pianeta, come NON si era mai fatto prima, possano avvenire fenomeni mai osservati prima&amp;rdquo; e&amp;rsquo; un esempio chiaro.&lt;/p&gt;
+
+&lt;p&gt;Nella mia idea, discutendo con una IA, dovrei ottenere una risposta di questo tipo:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Uriel: Ehi, ma cosa stiamo combinando al genoma umano se richiamiamo in un posto solo tutti gli esperti di IT del pianeta, e li facciamo accoppiare tra loro piu&amp;rsquo; di quanto non abbiamo mai fatto?&lt;/li&gt;
+&lt;li&gt;IA: Teoricamente nulla. Tuttavia, un esperimento simile con numeri simili non era mai stato condotto. Provero&amp;rsquo; ad avere dei numeri.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mentre oggi succede che.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Uriel: Ehi, ma cosa stiamo combinando al genoma umano se richiamiamo in un posto solo tutti gli esperti di IT del pianeta, e li facciamo accoppiare tra loro piu&amp;rsquo; di quanto non abbiamo mai fatto?&lt;/li&gt;
+&lt;li&gt;IN: Teoricamente nulla. Quindi smetti di pensarci. Lamarckiano di merda! A morte l&amp;rsquo;eretico!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ora, quel che io spero e&amp;rsquo; di poter , un tempo, parlare con una intelligenza &amp;ldquo;pura&amp;rdquo;. Qualcosa, cioe&amp;rsquo;, che se ne fotta di quanto successo duecento anni fa. Qualcosa che non dica &amp;ldquo;questa idea e&amp;rsquo; orribile&amp;rdquo; e quindi rifiuti di cercare i dati.&lt;/p&gt;
+
+&lt;p&gt;E parlo proprio di DATI.&lt;/p&gt;
+
+&lt;p&gt;Qualcuno mi accusa di essere &amp;ldquo;Lamarckiano&amp;rdquo; nello scorso post. Bene. Vediamo i dati.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.environmentalhealthnews.org/ehs/images/2010/january/2010-0105autismclustermap.jpg&#34; alt=&#34;lamarckwasright&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Ehi, ma che succede? Succede che in solo QUATTRO anni dopo l&amp;rsquo;esplosione della New Economy, si sono creati dei veri e propri CLUSTER di nascite di bambini autistici.&lt;/p&gt;
+
+&lt;p&gt;Oh, certo, sono convinto che Lamarck abbia detto il falso. Infatti io NON ho MAI detto cose come &amp;ldquo;la funzione crea l&amp;rsquo;organo&amp;rdquo;. Io mi sono chiesto cosa succeda nel raggruppare persone con geni specifici in un luogo, aumentando poi le probabilita&amp;rsquo; di accoppiamento tra persone simili. Accoppiamento selettivo.&lt;/p&gt;
+
+&lt;p&gt;La risposta e&amp;rsquo; circa: &amp;ldquo;sei troppo Lamarckiano&amp;rdquo;. Strano, perche&amp;rsquo; sto parlando di accoppiamenti selettivi, ovvero di selezione. Ma forse non e&amp;rsquo; nemmeno quello: magari con l&amp;rsquo;esplosione della New Economy in quella zona si e&amp;rsquo; accumulato troppo silicio. O troppi solventi usati per il silicio. Whatever.&lt;/p&gt;
+
+&lt;p&gt;Ma sta di fatto che , dal momento che e&amp;rsquo; considerato &amp;ldquo;accademicamente provato&amp;rdquo; che raggruppare gente simile per talento e farla accoppiare NON POSSA causare effetti (in questo caso negativi) , allora &lt;strong&gt;non si leggono nemmeno i dati&lt;/strong&gt;. Ci si inalbera gridando al Lamarckismo.&lt;/p&gt;
+
+&lt;p&gt;Io non voglio dire che correlazione=dimostrazione. Pero&amp;rsquo;, insomma, quei dati meriterebbero piu&amp;rsquo; di una semplice alzata di spalle. E&amp;rsquo; roba che viene dalla versione americana del ministero della salute, non dal Mago Otelma.&lt;/p&gt;
+
+&lt;p&gt;E se inizia ad esserci una correlazione &amp;ldquo;quartiere per quartiere&amp;rdquo; tra cluster di autismo e posti dove vanno a vivere gli esperti IT in quella zona, la precisione della correlazione non puo&amp;rsquo; saltare fuori per caso.&lt;/p&gt;
+
+&lt;p&gt;Ovviamente la cosa puo&amp;rsquo; trovare risposta. La risposta ufficiale sembra essere che in queste zone le diagnosi di autismo sono di piu&amp;rsquo; perche&amp;rsquo; le famiglie, essendo piu&amp;rsquo; istruite, sono piu&amp;rsquo; portate a far diagnosticare l&amp;rsquo;autismo. Prova ne sia , dicono testualmente, che gli ispanici sono sottorappresentati. Non ci sono numeri a riguardo,  che servirebbero visto che nella silicon valley la composizione e&amp;rsquo; piuttosto internazionale, ma e&amp;rsquo; cosi&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;Non ho neanche voglia di commentare il fatto che si parta da diverse assunzioni su colto=diagnostico o ispanico=meno colto. La seconda puo&amp;rsquo; avere origine demografica, la prima non so da dove caschi.&lt;/p&gt;
+
+&lt;p&gt;Ma il punto e&amp;rsquo; che , paradossalmente, la risposta &amp;ldquo;ci sono piu&amp;rsquo; diagnosi di autismo perche&amp;rsquo; i genitori di un gruppo fanno meglio la misura&amp;rdquo; , senza ulteriori indagini, sembra ironicamente piu&amp;rsquo; Lamarckiana dell&amp;rsquo;altra: la funzione di accettare l&amp;rsquo;autismo crea la misura di autismo. Qui siamo al punto in cui pur di non fare una ricerca di tipo genetico si dice , senza numeri, che tutto dipende dall&amp;rsquo;amore per la diagnosi dei genitori colti.&lt;/p&gt;
+
+&lt;p&gt;Tranne per il fatto che sia un&amp;rsquo;assunzione:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;It doesn&amp;rsquo;t necessarily mean that higher education causes autism,&amp;rdquo; says Irva Hertz-Picciotto, one of the study&amp;rsquo;s authors and a researcher at the UC Davis MIND Institute. &amp;ldquo;It gets you the diagnosis more frequently.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tra l&amp;rsquo;altro, non emerge neanche uno straccio di numero sul titolo di studio dei genitori di quei bambini.  Si sa solo che in quelle zone l&amp;rsquo;educazione sia mediamente piu&amp;rsquo; alta, ma che PROPRIO i genitori di quei bambini siano piu&amp;rsquo; colti &lt;em&gt;lo dicono loro&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ecco, questi sono i momenti nei quali sento la fretta, l&amp;rsquo;urgenza, di avere a disposizione una IA , culturalmente neutrale. So benissimo che chiedere le prove di una &amp;ldquo;maggiore facilita&amp;rsquo; alla diagnosi&amp;rdquo; delle famiglie ricche, in una zona mista, in un paese fatto di tensioni razziali, sia terribilmente complesso. Politicamente parlando, si ottiene che nessuno fara&amp;rsquo; mai una ricerca simile. Per quanto, nel caso degli ispanici, si da&amp;rsquo; per scontato che siano sottorappresentati, &lt;em&gt;quindi abbiamo tolto gli ignoranti dalla conta&lt;/em&gt;. Questo dato sembra invece assodato.&lt;/p&gt;
+
+&lt;p&gt;Ok, facendo cosi&amp;rsquo; va tutto bene. Abbiamo una risposta che non e&amp;rsquo; &amp;ldquo;disruptive&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Una IA piu&amp;rsquo; &amp;ldquo;neutrale&amp;rdquo; culturalmente , almeno nei miei sogni, andrebbe a:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sfogliare i dati sull&amp;rsquo;istruzione dei genitori di bambini con sindrome autistica.&lt;/li&gt;
+&lt;li&gt;Sfogliare i dati sull&amp;rsquo;istruzione dei genitori di bambini SENZA alcuna diagnosi.&lt;/li&gt;
+&lt;li&gt;Sfogliare i dati sull&amp;rsquo;istruzione dei genitori di bambini con diagnosi negativa.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;e a questo punto potrebbe dare una risposta chiara, senza &lt;strong&gt;&amp;ldquo;dedurre&amp;rdquo;&lt;/strong&gt; l&amp;rsquo;istruzione dei genitori  &lt;em&gt;dal fatto che gli ispanici siano sottorappresentati&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ma ci sono AlMENO un paio di ragioni politiche per le quali simili statistiche non sono possibili. La diatriba in questione, sui cluster,  nasce credendo che ci sia inquinamento , tale da causare autismo. Quindi gia&amp;rsquo; c&amp;rsquo;era un giro di miliardi di risarcimenti nell&amp;rsquo;aria. Poi c&amp;rsquo;era la questione politica, per cui qualcuno si e&amp;rsquo; affrettato a dire che l&amp;rsquo;istruzione alta non causa autismo. Dopo aver detto che c&amp;rsquo;e&amp;rsquo; relazione con le diagnosi di autismo, &lt;strong&gt;ma sia chiaro&lt;/strong&gt; , tale correlazione e&amp;rsquo; dovuta ad un fattore culturale.  I genitori ispanici, meno colti non si accorgono che il figlio e&amp;rsquo; autistico, o quando se ne accorgono non lo portano da nessun medico.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alonzo, cosa vuoi da mangiare?&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;oiDaMangiareoiDaMangiareoiDaMangiareoiDaMangiareoiDaMangiare&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Si vedes che stas benones, chico!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ok, ovviamente senza numeri possiamo dire di tutto e di piu&amp;rsquo;. Sono certo di sbagliare. Ma la sensazione di sbagliare perche&amp;rsquo; qualche tribunale della fede ti accusa di essere Lamarckiano quando ti sei posto un problema di &lt;em&gt;selezione&lt;/em&gt; e&amp;rsquo; molto diversa dalla sensazioe che ti darebbe vedere dei dati elaborati da un ente che non crede che i genitori ispanici non si accorgano dell&amp;rsquo;autismo, o che se ne freghino e non portino il pargolo ad una visita. E che poi non se ne accorga nessuno nemmeno a scuola, che pure e&amp;rsquo; obbligatoria anche per gli ispanos.&lt;/p&gt;
+
+&lt;p&gt;Si, non vedo l&amp;rsquo;ora di avere a che fare con le IA. Alle quali puoi chiedere se per caso dei momenti di estrema selezione del piu&amp;rsquo; robusto, come un viaggio in condizioni disumane, non possano avere effetti statistici di selezione di alcuni tratti. Ripeto: selezione.&lt;/p&gt;
+
+&lt;p&gt;Non si tratta di essere Lamarckiani. Io non sostengo che un San Bernardo maschio adulto pesi dai 90 ai 100 kg, mentre uno Yorkshire ne pesi 3.5-4 (secondo gli standard di razza) , perche&amp;rsquo; qualche funzione abbia creato l&amp;rsquo;organo.&lt;/p&gt;
+
+&lt;p&gt;Penso pero&amp;rsquo; che la &lt;em&gt;selezione&lt;/em&gt; e gli incroci selettivi abbiano causato questa differenza. E da questo, per analogia, sono autorizzatISSIMO a chiedermi se altri eventi selettivi possano fare lo stesso alla specie umana.&lt;/p&gt;
+
+&lt;p&gt;MA quando si parla di specie umana, parlare di selezione che determina alcuni tratti e&amp;rsquo; taboo. Sia chiaro: se dite che gli europei sono piu&amp;rsquo; chiari perche&amp;rsquo; la selezione genetica ha bisogno reagire al clima diverso, nessuno dice nulla. E&amp;rsquo; roba vecchia, successa anni ed anni fa. Quindi se reagite al clima diventando biondi, da negri, e&amp;rsquo; ok.&lt;/p&gt;
+
+&lt;p&gt;Ma se reagite alle nuove condizioni sociali diventando alti, per dire, allora non va bene. Eh, no. Un conto e&amp;rsquo; un processo di selezione che nei climi freddi ucciderebbe piu&amp;rsquo; i neri che i bianchi, per via del colore della pelle. (sarebbe interessante una misura che mostri la &lt;em&gt;magnitudo&lt;/em&gt; di questa maggiore mortalita&amp;rsquo; dei neri, btw.). Un processo di selezione che aumenti l&amp;rsquo;altezza di 4 pollici perche&amp;rsquo; in Europa ci sono condizioni socialmente migliori, invece, e&amp;rsquo; gia&amp;rsquo; imbarazzante. Si, la gente e&amp;rsquo; piu&amp;rsquo; alta, ma e&amp;rsquo; il cibo. Ereditario? Maddai.&lt;/p&gt;
+
+&lt;p&gt;Chiedere se poi, come accade con il San Bernardo, tali caratteristiche possano diventare ereditarie e&amp;rsquo; blasfemo. Dunque, l&amp;rsquo;essere umano e&amp;rsquo; immune da qualsiasi processo selettivo che non sia preistorico, o almeno disgiunto dalla storia dei nazionalismi europei. Ok, se lo dicono gli esperti sono d&amp;rsquo;accordo.&lt;/p&gt;
+
+&lt;p&gt;Sono d&amp;rsquo;accordo, &lt;em&gt;MA non vedo l&amp;rsquo;ora che l&amp;rsquo;esperto sia una macchina fatta di logica e silicio.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Non so, sara&amp;rsquo; l&amp;rsquo;esperienza personale. Ma per dimostrare che un certo gruppo di indiani lavorasse peggio ho dovuto usare un computer che prendesse le misure sul tempo dei ticket.&lt;/p&gt;
+
+&lt;p&gt;Stranamente, l&amp;rsquo; &amp;ldquo;intelligenza umana&amp;rdquo; non riusciva a pronunciare &lt;em&gt;una certa frase&lt;/em&gt;. E non riusciva mai a leggere &lt;em&gt;alcuni dati&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Per questo mi piace quella artificiale:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pronuncia QUALSIASI frase.&lt;/li&gt;
+&lt;li&gt;Legge QUALSIASI dato.&lt;/li&gt;
+&lt;li&gt;Non esclude a priori NESSUNA conclusione.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;E questo mi lascia sperare in una scienza migliore. Nella quale sicuramente ho torto, ma almeno qualcuno avra&amp;rsquo; il coraggio di elaborare dei numeri con la freddezza che serve per dirmelo, ed ascoltare le domande senza partire per una crociata contro gli eretici.&lt;/p&gt;
+
+&lt;p&gt;Perche&amp;rsquo; quando la risposta arriva con certi toni, onestamente sa di tutto tranne che di scienza.&lt;/p&gt;
+
+&lt;p&gt;Se un esperto vuole dirmi che l&amp;rsquo;essere umano NON risenta di alcun fenomeno di selezione genetica o di accoppiamento selettivo , se non in tempi fuori da ogni discussione politica, per me e&amp;rsquo; libero di farlo. Ok, gli credo.&lt;/p&gt;
+
+&lt;p&gt;Ma appena SIRI &lt;a href=&#34;http://www.adapteva.com/wp-content/uploads/2013/02/sc11_publish.pdf&#34;&gt;diventa abbastanza potente,e  manca poco&lt;/a&gt;, non vi incazzate, ma per prima cosa chiedero&amp;rsquo; una conferma.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sempre post H&#43;.</title>
@@ -1767,153 +1910,6 @@ Tra due settimane, avrete gettato via la vostra spilla no-expo.
 &lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;(1) Farsi prestampare una casacca con scritto &amp;ldquo;cittadino volontario&amp;rdquo; il primo maggio, il sabato di un ponte e una domenica e&amp;rsquo; semplicissimo, come e&amp;rsquo; noto.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>I programmofoni</title>
-      <link>http://www.wolfstep.cc/post/cavalletteplusplus/</link>
-      <pubDate>Fri, 01 May 2015 13:41:15 +0200</pubDate>
-      
-      <guid>http://www.wolfstep.cc/post/cavalletteplusplus/</guid>
-      <description>&lt;p&gt;Ero in altre faccende affaccendato quando nacque e si sviluppo&amp;rsquo; Java, cosi&amp;rsquo; non ho potuto seguire la sua interminabile morte.(1) Idem per Python ed altri. Sto invece osservando il mondo di golang, non tanto perche&amp;rsquo; intenda darmi alla programmazione ma perche&amp;rsquo; mi sta divertendo. Chi ha scritto golang &lt;em&gt;si e&amp;rsquo; divertito&lt;/em&gt; , questo e&amp;rsquo; certo. E sto vedendo come la programmazione diventi merda. Parlandone.&lt;/p&gt;
-
-&lt;p&gt;Non sto scherzando. golang e&amp;rsquo; ancora usato per il 2.5% dei progetti del mondo, quindi di per se&amp;rsquo; dovrebbe essere un linguaggio agli albori che discute le sue primitive di base e le sue librerie piu&amp;rsquo; usate. Invece, sono gia&amp;rsquo; arrivati i programmofoni.&lt;/p&gt;
-
-&lt;p&gt;I programmofoni si dividono in diverse categorie. Quando ho scritto su un forum che volevo scrivere un programma che facesse un server NNTP e condividesse i post via P2P, chiedendo se qualcuno conoscesse delle librerie ad hoc, mi hanno proposto cinque o sei librerie, tra NNTP, P2P e UPnP. A parte lo stato pietoso del codice (ho dovuto scaricare una copia mia del software dell&amp;rsquo; UpNP e bonificarlo(2) ) , indice di immaturita&amp;rsquo;, ho pensato subito &amp;ldquo;ma guarda quanta bella gente servizievole che c&amp;rsquo;e&amp;rsquo; qui&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Invece, poi ho scoperto la verita&amp;rsquo;.&lt;/p&gt;
-
-&lt;p&gt;Tutto quel codice fa schifo. E fa schifo perche&amp;rsquo; e&amp;rsquo; stato scritto in fretta senza voler raggiungere un obiettivo. Se voi avete un obiettivo, e avete un programma in mente, dovete fare quello. Se invece scrivete delle librerie dht per scrivere delle librerie dht, ma senza uno use-case in mente, &lt;em&gt;scriverete roba di merda&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ma allora perche&amp;rsquo; li scrivono? Scrivono perche&amp;rsquo; vogliono diventare programmofoni. Il programmofono e&amp;rsquo; uno che scrive codice, ma non programma: &lt;em&gt;il suo scopo e&amp;rsquo; di essere pagato per parlare di programmazione&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Scrivono librerie sperando che gli altri le usino. Quando gli altri le usano le loro librerie diventeranno famose, e si faranno pagare per i talk alle convention e per gli articoli sui giornali. Niente idee. Niente bisogni da risolvere.&lt;/p&gt;
-
-&lt;p&gt;Uno dei tipi piu&amp;rsquo; pericolosi di programmofono e&amp;rsquo; chi scrive i framework. Normalmente per scrivere un framework VERO occorre una squadra di esperti, e occorrono anni di analisi dei requisiti.(3) Invece su golang stanno iniziando a piovere framework (identici a quelli che hanno gia&amp;rsquo; fallito in Java, btw). E non sono framework scritti da team di esperti di grandi aziende che vogliono intercettare i bisogni dei clienti: sono scritti in pochi mesi da UN individuo , spesso giovanissimo.&lt;/p&gt;
-
-&lt;p&gt;Perche&amp;rsquo; scrivono framework e non un vero programma? Perche&amp;rsquo; manca loro l&amp;rsquo;idea, o manca il bisogno. Quando ho iniziato a riempire di Raspberry casa mia, ho avuto bisogno di un coso semplice che mi dicesse sul browser in che stato fosse l&amp;rsquo; OS. Avevo un &lt;strong&gt;bisogno&lt;/strong&gt;. Quando mi e&amp;rsquo; venuto in mente di scrivere un server NNTP che condividesse i post su P2P anziche&amp;rsquo; usare il sistema centralzzato attuale, avevo un&amp;rsquo;idea.&lt;/p&gt;
-
-&lt;p&gt;Chi scrive un framework NON ha un&amp;rsquo;idea. E neanche un bisogno. Si limita a scrivere nella &lt;strong&gt;speranza&lt;/strong&gt; che &lt;strong&gt;ALTRI&lt;/strong&gt; abbiano qualche idea su come usarlo, o che abbiano &lt;strong&gt;bisogno&lt;/strong&gt; di usarlo.&lt;/p&gt;
-
-&lt;p&gt;Quando scrivono questo codice senza idee ne&amp;rsquo; bisogni, cioe&amp;rsquo; seza use-case che non siano &amp;ldquo;esempi&amp;rdquo; (In pratica, &amp;ldquo;Hello World&amp;rdquo;) , cosa fanno per prima cosa? I programmofoni. Cioe&amp;rsquo; vanno a dare un talk a qualche convention di go. Se osservate i nuovi &amp;ldquo;framework&amp;rdquo; di golang, saranno &lt;strong&gt;TUTTI&lt;/strong&gt; presentati a qualche talk dal loro creatore.&lt;/p&gt;
-
-&lt;p&gt;Il quale avra&amp;rsquo; vita facile: andra&amp;rsquo; li&amp;rsquo; e mostrera&amp;rsquo; gli esempi. Solo esempi. Non casi reali. Non &lt;em&gt;case study&lt;/em&gt;. No: esempi. Ideati da loro medesimi.&lt;/p&gt;
-
-&lt;p&gt;Ho qualcosa contro gli esempi? No. Ma gli esempi non hanno quasi nulla a che fare con la realta&amp;rsquo;. Se per esempio osservate QUALSIASI esempio di Fibonacci, scoprirete che viene usato per spiegare la ricorsione. E funziona BENISSIMO. Per spiegarla, intendo. Ma se prendete un Fibonacci e ci fate una funzione Fibonacci()  e gli date un numero lungo 16 bit in ingresso, ci si aspetta che presumiate di calcolare Fibonacci(65535) in maniera ricorsiva. Non vi consiglio proprio di farlo, per il bene del vostro stack. E&amp;rsquo; un ottimo esempio, ma mi vengono in mente altri modi iterativi.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;img src=&#34;http://upload.wikimedia.org/math/d/6/0/d6003177b224c767463fd1e8fd19bdab.png&#34; alt=&#34;fibonacci&#34; /&gt;
-
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Questo e&amp;rsquo; il punto degli esempi: servono a capire, ma non necessariamente a fare. Ed e&amp;rsquo; per questo che il nostro programmofono va al &amp;ldquo;talk&amp;rdquo; a sbrodolare fuffa.&lt;/p&gt;
-
-&lt;p&gt;Questa e&amp;rsquo; la ragione per la quale tutti mi proponevano librerie dicendo &amp;ldquo;io! io! usa la mia!&amp;rdquo;: volevano poter dire &amp;ldquo;la mia libreria e&amp;rsquo; usata&amp;rdquo;. Per la cronaca, sto implementando un &amp;lsquo;interfaccia NNTP partendo dagli RFC: questa roba che mi offrivano e&amp;rsquo; scritta in fretta e furia (4) , per arrivare primi a calcare i &amp;ldquo;talk&amp;rdquo;. Siccome gli organizzatori hanno poca gente da chiamare , se fai un framework per golang, ti chiamano di sicuro.&lt;/p&gt;
-
-&lt;p&gt;Dopo il &amp;ldquo;talk&amp;rdquo; arrivano i giornalisti di informatica-dev e i vari blogger professionali. Che iniziano a parlare dei talk. Il talk di secondo ordine. Allora, innanzitutto occorre che il vostro linguaggio abbia delle parole fiche. Golang e&amp;rsquo; idiomatico. Ovunque leggerete che sia idiomatico. Se osserviamo quanto sia usata l&amp;rsquo;idiomaticita&amp;rsquo;, scopriamo che se ne fa un uso scadentissimo, e sempre (o quasi) a danno della leggibilita&amp;rsquo;.  Ma parlare di &amp;ldquo;idiomaticita&amp;rsquo;&amp;rdquo; fa fico. Evoca l&amp;rsquo;umanizzazione. Sembra quasi intelligenza artificiale.&lt;/p&gt;
-
-&lt;p&gt;E allora sbrodoliamoci di idiomaticita&amp;rsquo;.&lt;/p&gt;
-
-&lt;p&gt;Questa altra classe di programmofoni, i giornalisti che scrivono di programmazione sulle riviste e sui e&amp;rsquo; simile agli animali da talk, nel senso che ne condivide lo scopo esistenziale: vivere di programmazione SENZA programmazione, ovvero parlando di programmazione. La stessa definizione di programmofono.&lt;/p&gt;
-
-&lt;p&gt;A quel punto saltano fuori i programmofoni di &lt;strong&gt;terzo&lt;/strong&gt; livello. Quelli che non programmano, ma sono figure tipo &amp;ldquo;solution designer&amp;rdquo; (5), o manager &amp;ldquo;che ti capiscono, perche&amp;rsquo; loro un tempo erano tecnici.&amp;rdquo; Questo tipo di manager, che e&amp;rsquo; normalmente appassionato di talk (molti volevano farsi preti per la libidine di poter parlare da un pulpito. La crisi delle vocazioni ha fatto il resto), vede i brillanti talk di questi personaggi , legge sulle riviste specializzate (perche&amp;rsquo; adesso lui e&amp;rsquo; un  manager, ma si sente ancora attirato dalle origini. Il richiamo della foresta, dicono. ) e allora via, l&amp;rsquo;indomani irrompe in una stanza di programmatori e dice &amp;ldquo; questo framework e&amp;rsquo; quello che ci serve&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Adesso mi chiederete un esempio. Prendero&amp;rsquo; cosi&amp;rsquo; una stringa casuale di cinque lettere, e vi mostrero&amp;rsquo; come diventa , grazie ai programmofoni, un &amp;ldquo;framework Hello World&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Prendiamo una stringa di 5 caratteri a casaccio: &amp;ldquo;Corba&amp;rdquo;. Si tratta della parola &amp;ldquo;Cobra&amp;rdquo; scritta da un dislessico di 6 anni, e non ha significato alcuno, ma come esempio casuale andra&amp;rsquo; benissimo. Tanto nessuno lavorerebbe con una cosa che si chiama &amp;ldquo;Corba&amp;rdquo;.(6)&lt;/p&gt;
-
-&lt;p&gt;Allora, ad un certo punto nasce Corba. Una parola senza alcun significato, ma piace un sacco ai programmofoni di primo livello. I quali scrivono codice a casaccio senza avere use case e senza chiedersi se per caso serva a qualcosa, e decidono che &amp;ldquo;adesso ci faccio un talk&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Corba&amp;rdquo; ovviamente non serve a nessuno (come potrebbe , una cosa con un nome cosi&amp;rsquo; stupido?) , e&amp;rsquo; orribilmente RAM-intensive, CPU-intensive, NETWORK-intensive, e chi lo ha scritto non aveva in mente alcuno use-case. MA aveva degli esempi.&lt;/p&gt;
-
-&lt;p&gt;Allora i primi programmofoni di ordine uno si presentano ai talk e fanno vedere che hanno due programmi che girano. Uno scrive &amp;ldquo;Ciao Mamma&amp;rdquo;, e sull&amp;rsquo;altro compare una finestra &amp;ldquo;Ciao Mamma&amp;rdquo; . Applausi del pubblico. Delirio. La soluzione di tutti i nostri problemi, dalle emorroidi alla congettura di Poincare&amp;rsquo;.&lt;/p&gt;
-
-&lt;p&gt;Di fronte a tale esibizione di un computer che scrive &amp;ldquo;ciao mamma&amp;rdquo; su una finestra e un altro computer che scrive &amp;ldquo;ciao mamma&amp;rdquo; sullo schermo, i giornalisti imparano due o tre parole. Diciamo, a casaccio, &amp;ldquo;serializzazione&amp;rdquo; e &amp;ldquo;interoperabilita&amp;rsquo; &amp;rdquo; e, visto che si siamo, &amp;ldquo;suocerismo&amp;rdquo;. Il suocerismo, alla fine, e&amp;rsquo; l&amp;rsquo;unica cosa buona di Corba, ma tutti lo scopriranno dopo, e nessun programmofono ne parlera&amp;rsquo; mai. Qualcuno di voi ha mai sentiro parlare di Corba come paradigma suoceristico? No? QED.&lt;/p&gt;
-
-&lt;p&gt;Comunque, i programmofoni di secondo ordine hanno nuove parole, e possono scrivere articoli e pagine di blog piene di &amp;ldquo;serializzazione&amp;rdquo;, &amp;ldquo;interoperabilita&amp;rsquo;&amp;rdquo; e &amp;ldquo;suocerismo&amp;rdquo;. E cominciano a fare esempi. Meta&amp;rsquo; di loro sono una scopiazzatura bella e buona delle slide del &amp;ldquo;talk&amp;rdquo;. &amp;ldquo;&amp;ldquo;Ciao mamma&amp;rdquo; invade i monitor del mondo.&lt;/p&gt;
-
-&lt;p&gt;L&amp;rsquo;altra meta&amp;rsquo; e&amp;rsquo; fatta di &amp;ldquo;guarda come mi diverto&amp;rdquo; e infine qualcuno cerca di farci qualcosa, sentendosi dire che &amp;ldquo;Corba non e&amp;rsquo; nato per questo&amp;rdquo;, che &amp;ldquo;esiste gia&amp;rsquo; il TCP/IP per questo&amp;rdquo; e il resto si sente dire che gli serve il doppio dei server.&lt;/p&gt;
-
-&lt;p&gt;A questo punto, quando &amp;ldquo;Corba il greco&amp;rdquo; e&amp;rsquo; ormai sulla bocca di tutti, arriva il programmofono di terzo ordine, che legge tutta questa roba, brucia di invidia per il tipo fico del talk, e piomba l&amp;rsquo;indomani in azienda dicendo che &amp;ldquo;occorre qualcosa di moderno. Ci serve Corba!&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Questa cosa, che &lt;em&gt;notoriamente&lt;/em&gt; non e&amp;rsquo; mai successa (che diavolo di porcheria potra&amp;rsquo; mai essere una cosa dal nome cosi&amp;rsquo; ridicolo? Dai, siamo seri. ) e&amp;rsquo; un esempio di come i programmofoni distruggono un ambiente lavorativo.&lt;/p&gt;
-
-&lt;p&gt;Oggi come oggi,&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Siamo pieni di framework che funzionano solo sugli esempi di come usarli, e mai nella vita reale.&lt;/li&gt;
-&lt;li&gt;Questi framework sono necessari perche&amp;rsquo; sono famosi.&lt;/li&gt;
-&lt;li&gt;Questi framework sono famosi perche&amp;rsquo; tutti ne parlano.&lt;/li&gt;
-&lt;li&gt;Quando si cerca di usarli per casi reali si scopre che i loro limiti sono tali e tanti che e&amp;rsquo; meglio farsi tutto da soli. E che &amp;ldquo;&lt;em&gt;gli stessi autori consigliano un&amp;rsquo;altra libreria&lt;/em&gt;&amp;rdquo;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nessuno trova lavoro se non conosce uno di questi framework famosi. Nessuno li utilizza davvero, perche&amp;rsquo; il programma reale viene poi splittato su altre 15 librerie. Consigliate dagli stessi autori. Le stesse librerie soffrono il problema, quindi erano nate per fare altro.&lt;/p&gt;
-
-&lt;p&gt;Questa merda ha distrutto Java. Ha distrutto Javascript. Python. Perl. Ha distrutto praticamente ogni linguaggio, per una semplice ragione: il programmofono non vuole scrivere programmi. Non ha un problema da risolvere e non ha un&amp;rsquo;idea. Vuole scrivere codice dicendo che servira&amp;rsquo; a chi ha i problemi e le idee. E il suo ruolo nei problemi reali e nell idee reali? Lui fa il talk.&lt;/p&gt;
-
-&lt;p&gt;Ma a questo punto arriva in scena il becchino, l&amp;rsquo;ultima categoria di programmofoni. Quelli che discutono a posteriori di paradigmi.&lt;/p&gt;
-
-&lt;p&gt;Voi avete delle scimmie che scrivono software di merda, arriva il programmofono e vi fa un bell&amp;rsquo;articolo su un giornale: &amp;ldquo;ma il paradigma OOP ha fallito?&amp;rdquo;. E via di filosofia.&lt;/p&gt;
-
-&lt;p&gt;Ora, dire che &amp;ldquo;il paradigma OOP ha fallito&amp;rdquo; non e&amp;rsquo; giusto o sbagliato. E&amp;rsquo; senza senso.&lt;/p&gt;
-
-&lt;p&gt;Stiamo parlando di strumenti. Se Michelangelo prende uno scalpello ci fa il David. Se io prendo uno scalpello, ci spacco delle pietre. Ma non posso dire &amp;ldquo;ma il paradigma dello scalpello ha fallito&amp;rdquo;. No. Potrebbe dirlo Michelangelo, e&amp;rsquo; vero: se dopo aver scolpito il David con uno scalpello ne prende un altro e gli riesce una ciofeca, allora puo&amp;rsquo; dire &amp;ldquo;questo paradigma di scalpello cinese ha fallito&amp;rdquo;. Ma puo&amp;rsquo; farlo LUI. E DOPO aver scolpito il David.&lt;/p&gt;
-
-&lt;p&gt;Allora adesso arriva un mondo che NON ha MAI prodotto niente di simile a &amp;ldquo;David&amp;rdquo;. Se escludiamo Donald Knuth e pochi altri, roba del genere non si e&amp;rsquo; mai vista. Del resto, Knuth non fa discorsi tipo &amp;ldquo;ma il paradigma OOP ha fallito?&amp;rdquo; (7), lui dice che ha sempre pensato a quel modo, e semmai invece di usare un linguaggio specifico preferisce l&amp;rsquo; AUTODISCIPLINA nel pensare.&lt;/p&gt;
-
-&lt;p&gt;Ma il quarto tipo di programmofono ha quasi vent&amp;rsquo;anni di fallimenti da commentare, e quindi puo&amp;rsquo; facilmente scriverci degli articoli.&lt;/p&gt;
-
-&lt;p&gt;In realta&amp;rsquo; cosa sia andato storto e&amp;rsquo; chiaro:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Linguaggi vicini alla macchina. Ottimo codice, ma programmatori troppo pagati.&lt;/li&gt;
-&lt;li&gt;Linguaggi imperativi classici. Codice ancora decente, ma i programmatori iniziano a essere molti.&lt;/li&gt;
-&lt;li&gt;Linguaggi funzionali. Codice &amp;ldquo;abbastanza buono da metterlo sul mercato&amp;rdquo;, e i programmatori sono pagati quanto un operaio.&lt;/li&gt;
-&lt;li&gt;Linguaggi OOP: codice di merda, e un programmatore indiano costa $20 al giorno.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Ora, anche tornando ai linguaggi funzionali , e tirando fuori roba tipo erlang o ripescando il prolog, il problema del peggioramento del codice e&amp;rsquo; chiaro: se qualcuno scrive programmi di merda, non e&amp;rsquo; colpa &amp;ldquo;del paradigma&amp;rdquo;. Non e&amp;rsquo; colpa dello scalpello se io non so fare il David.&lt;/p&gt;
-
-&lt;p&gt;La velocita&amp;rsquo; con cui nascono e crescono i nuovi linguaggi e&amp;rsquo; aumentata mano a mano che il software diventava piu&amp;rsquo; scadente: in una specie di legge di Moore al contrario, il codice odierno riesce a sprecare piu&amp;rsquo; risorse di quante la legge di Moore riesca a produrre. Il vostro cellulare e&amp;rsquo; quello che vent&amp;rsquo;anni fa vendevo come supercomputer. E alcuni software &amp;ldquo;ci girano a malapena&amp;rdquo;. La gente ci simulava galassie, sul vostro quad core con un GB di RAM. E voi fate fatica a farci una app stabile.&lt;/p&gt;
-
-&lt;p&gt;E siccome i fallimenti sono sempre di piu&amp;rsquo;, sempre piu&amp;rsquo; velocemente i programmofoni di quarto ordine devono inventarsi &amp;ldquo;il fallimento del paradigma n-1&amp;rdquo;. Perche&amp;rsquo; si potrebbe seguire l&amp;rsquo;approccio Wirth e dire &amp;ldquo;se questo programma fa cagare, licenzia chi lo ha scritto&amp;rdquo;. Ma ovviamente bisogna salvare la pappa, e allora si dice che &amp;ldquo;ha fallito il padadigma OOP&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Adesso arriva l&amp;rsquo;idiomaticita&amp;rsquo;. Vedo gia&amp;rsquo; codice idiomatico scritto per i talk. Stanno arrivando i programmofoni. Tra qualche anno saremo pieni di codice di merda scritto in golang. Dagli stessi che hanno gia&amp;rsquo; fallito in Python, Ruby, PhP, Java e Scala. E anziche&amp;rsquo; mandare a casa questi programmatori, sapete cosa scriveranno i giornalisti di informatica?&lt;/p&gt;
-
-&lt;p&gt;Che &amp;ldquo;ha fallito il paradigma idiomatico&amp;rdquo;. Perche&amp;rsquo; la colpa e&amp;rsquo; sempre dello scalpello.&lt;/p&gt;
-
-&lt;p&gt;Succedera&amp;rsquo; anche a golang? Non so. Non e&amp;rsquo; questioni di esserne tifoso o meno, e&amp;rsquo; questione che di fatto si tratta di un C migliorato. Quando programmi in C/C++ per prima cosa ti scrivi le classi per fare le cose di base (accedere file, gestire socket, etc) , il famoso utils.c , poi vai avanti col programma. Golang e&amp;rsquo; semplicemente un c con meno perdite di tempo e tutte queste cose gia&amp;rsquo; scritte. Quindi e&amp;rsquo; molto difficile che sia molto fico per i programofoni, per quanto sia fico dire &amp;ldquo;idiomatico&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Poi, ovviamente, chi vivra&amp;rsquo; vedra&amp;rsquo; , se la colpa e&amp;rsquo; dei pittori o dei pennelli.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/BMxaLEGCVdg&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;(1) Si, e&amp;rsquo; morto. Lo stipendio medio dei programmatori java sta decrescendo ogni giorno, e Scala e&amp;rsquo; solo un palliativo. In questo momento Java e&amp;rsquo; nello stato di &amp;ldquo;balena spiaggiata&amp;rdquo;: prima che scompaia occorreranno mesi, se non anni, di decomposizione. Ma il fatto che la carcassa di Java dara&amp;rsquo; da mangiare ancora per anni non significa che sia vivo. Significa che e&amp;rsquo; una carcassa molto grande e ci mette molto a decomporsi.&lt;/p&gt;
-
-&lt;p&gt;(2) Il cinese che lo ha scritto crede davvero che se un server remoto ti manda qualcosa che non capisci, allora la soluzione migliore sia &amp;ldquo;&lt;a href=&#34;http://blog.golang.org/defer-panic-and-recover&#34;&gt;panic()&lt;/a&gt;&amp;rdquo;. A me invece sembra carino che i programmi sopravvivano alla propria esecuzione. Cosi l&amp;rsquo;ho bonificato gestendo degli errori qui e li&amp;rsquo;.&lt;/p&gt;
-
-&lt;p&gt;(3) Altrimenti succede questo: quando usate il framework con gli esempi forniti, siete capaci di scrivere &amp;ldquo;Hello World&amp;rdquo;. Ma quando piazzate il framework in un ambiente lavorativo e dovete farci delle cose senza limitarvi a degli esempi, scoprite che il tale framework questo lo fa ma non cosi&amp;rsquo;, quello lo fa ma non e&amp;rsquo; il suo core business, l&amp;rsquo;altro lo fa ma performa male, e che quell&amp;rsquo;altra tale cosa sarebbe meglio farla con altre librerie, parola degli stessi sviluppatori del framework. Risultato? Il framework esegue benissimo gli esempi di utilizzo e va bene per le minchiatine.&lt;/p&gt;
-
-&lt;p&gt;(4)Il software che sto scrivendo e&amp;rsquo; scritto per me stesso, e io &lt;strong&gt;non sono&lt;/strong&gt; un programmatore. Non funziona ancora, e lo mando avanti quando mi diverte programmare. Prima o poi lo commentero&amp;rsquo; e lo riordinero&amp;rsquo;. Per ora sto provando tutte le tecniche di golang, una ad una. E&amp;rsquo; un progetto personale e NON pretendo che abbia qualita&amp;rsquo;, almeno non adesso.&lt;/p&gt;
-
-&lt;p&gt;(5) E&amp;rsquo; il lato oscuro degli architetti di sistema. Quando ne incontro uno, di solito mi salutano dicendo &amp;ldquo;Io sono tuo padre&amp;rdquo;. Io faccio la parte tecnica. Loro fanno il powerpoint. Riunioni di ore nella quale la loro domanda e&amp;rsquo; &amp;ldquo;ma in che dominio e&amp;rsquo; questo elemento che chiamiamo &amp;ldquo;Billing&amp;rdquo;? Nella zona verde a destra o in quella rosa a sinistra?&amp;rdquo; E io a spiegare che cosa sia un BSS, sinche&amp;rsquo; non mi viene detto &amp;ldquo;non sono cosi&amp;rsquo; tecnico&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;(6) Lo so, lo so. Ma nessuno lo ammettera&amp;rsquo; mai. Si vergognano troppo.&lt;/p&gt;
-
-&lt;p&gt;(7)&lt;a href=&#34;http://tex.loria.fr/historique/interviews/knuth-clb1993.html&#34;&gt;http://tex.loria.fr/historique/interviews/knuth-clb1993.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;CLB&lt;/strong&gt;: What about object-oriented programming? Is it just a current buzzword, or does this approach appeal to you?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Knuth&lt;/strong&gt;: I&amp;rsquo;ve always thought of programming in that way, but I haven&amp;rsquo;t used languages that help enforce the discipline; &lt;strong&gt;&lt;em&gt;I&amp;rsquo;ve always enforced the discipline myself in other languages&lt;/em&gt;&lt;/strong&gt;. Programming languages can now catch you if you make a mistake, and they make it easier for you to hide information from one part of the program to another. In my own programs, with older languages, I wouldn&amp;rsquo;t use what I wasn&amp;rsquo;t supposed to use; I would have to discipline myself to follow these rules. I could, so I did. There weren&amp;rsquo;t programs I couldn&amp;rsquo;t write&amp;hellip; but the new tools do help.&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
